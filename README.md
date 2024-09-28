@@ -1,10 +1,11 @@
 # vic3_sovereign_toolkit
 16 Cheat events for Victoria 3 with English and Russian localization
+Конечно, вот резюме с Markdown разметкой для вашего `README.md`:
 
-Конечно, вот резюме по вашим читовым событиям и модификаторам на русском и английском языках:
-
+```markdown
 ###
-#### eventcheats.1 - Усилить экономику / Enhance Economy
+
+#### event cheats.1 - Усилить экономику / Enhance Economy
 +1005.0% Бонус к товарообороту от компании / +1005.0% Company throughput bonus
 +1005.0% Бонус к строительству от компании / +1005.0% Company construction bonus
 +5.0 к строительству / +5.0 to construction
@@ -32,7 +33,7 @@
 +30.0% Товарооборот рыболовецкой промышленности / +30.0% Throughput for fishing buildings
 +30.0% Товарооборот китобойной промышленности / +30.0% Throughput for whaling buildings
 
-#### eventcheats.2 - Усилить армию / Enhance Army
+#### event cheats.2 - Усилить армию / Enhance Army
 +70% к количеству призываемых батальонов / +70% to conscription rate
 +1800% к защите армии / +1800% to army defense
 +300% к защите флота / +300% to navy defense
@@ -41,74 +42,75 @@
 +200% Ежедневный прирост организации / +200% Daily organization gain
 -1 к риску истощения / -1 to attrition risk
 
-#### eventcheats.3 - Инфраструктура / Infrastructure
+#### event cheats.3 - Инфраструктура / Infrastructure
 +999.0 к потенциалу налогообложения / +999.0 to tax capacity
 +40.0 к инфраструктуре / +40.0 to infrastructure
 
-#### eventcheats.4 - Бюрократия / Bureaucracy
+#### event cheats.4 - Бюрократия / Bureaucracy
 +300% к количеству бюрократии / +300% to bureaucracy amount
 +100 к количеству бюрократии / +100 to bureaucracy amount
 
-#### eventcheats.5 - Авторитет / Authority
+#### event cheats.5 - Авторитет / Authority
 +300% к количеству авторитета / +300% to authority amount
 
-#### eventcheats.6 - Влияние / Influence
+#### event cheats.6 - Влияние / Influence
 +300% к количеству влияния / +300% to influence amount
 
-#### eventcheats.7 - Рождаемость / Birth Rate
+#### event cheats.7 - Рождаемость / Birth Rate
 +100.0% к рождаемости общепризнанного населения / +100.0% to birth rate of accepted population
 
-#### eventcheats.8 - Дипломатические манёвры / Diplomatic Maneuvers
+#### event cheats.8 - Дипломатические манёвры / Diplomatic Maneuvers
 +500 к количеству манёвров на дипломатическую игру / +500 to diplomatic play maneuvers
 -100% к получению дурной славы / -100% to infamy generation
 +300% к снижению дурной славы / +300% to infamy decay
 
-#### eventcheats.9 - Смертность / Mortality
--70% смертности среди рабочих занятых на рудниках / -20% to mortality for mining laborers
--70% смертности среди механиков занятых на рудниках / -20% to mortality for mining machinists
--70% смертности среди инженеров занятых на рудниках / -20% to mortality for mining engineers
--70% смертности среди рабочих лесозаготовительных сооружений / -20% to mortality for logging laborers
--70% смертности среди механиков лесозаготовительных сооружений / -20% to mortality for logging machinists
--70% смертности среди инженеров лесозаготовительных сооружений / -20% to mortality for logging engineers
--70% смертности среди рабочих занятых в лёгкой промышленности / -20% to mortality for light industry laborers
--70% смертности среди механиков занятых в лёгкой промышленности / -20% to mortality for light industry machinists
--70% смертности среди инженеров занятых в тяжёлой промышленности / -20% to mortality for heavy industry engineers
--70% смертности среди рабочих занятых в тяжёлой промышленности / -20% to mortality for heavy industry laborers
--70% смертности среди механиков занятых в тяжёлой промышленности / -50% to mortality for heavy industry machinists
--70% смертности среди рабочих на китобойных станциях / -20% to mortality for whaling laborers
--70% смертности среди механиков на китобойных станциях / -50% to mortality for whaling machinists
--70% смертности среди инженеров на рыболовных верфях / -20% to mortality for fishing engineers
+#### event cheats.9 - Смертность / Mortality
+-20% к смертности среди рабочих занятых на рудниках / -20% to mortality for mining laborers
+-20% к смертности среди механиков занятых на рудниках / -20% to mortality for mining machinists
+-20% смертности среди инженеров занятых на рудниках / -20% to mortality for mining engineers
+-20% к смертности среди рабочих лесозаготовительных сооружений / -20% to mortality for logging laborers
+-20% к смертности среди механиков лесозаготовительных сооружений / -20% to mortality for logging machinists
+-20% смертности среди инженеров лесозаготовительных сооружений / -20% to mortality for logging engineers
+-20% к смертности среди рабочих занятых в лёгкой промышленности / -20% to mortality for light industry laborers
+-20% смертности среди механиков занятых в лёгкой промышленности / -20% to mortality for light industry machinists
+-20% смертности среди инженеров занятых в тяжёлой промышленности / -20% to mortality for heavy industry engineers
+-20% к смертности среди рабочих занятых в тяжёлой промышленности / -20% to mortality for heavy industry laborers
+-50% смертности среди механиков занятых в тяжёлой промышленности / -50% to mortality for heavy industry machinists
+-20% смертности среди рабочих на китобойных станциях / -20% to mortality for whaling laborers
+-50% смертности среди механиков на китобойных станциях / -50% to mortality for whaling machinists
+-20% смертности среди инженеров на рыболовных верфях / -20% to mortality for fishing engineers
 -50% смертности среди рабочих на рыболовных верфях / -50% to mortality for fishing laborers
--70% смертности среди механиков на рыболовных верфях / -20% to mortality for fishing machinists
--70% смертности среди инженеров нефтедобывающих сооружений / -20% to mortality for oil extraction engineers
--70% смертности среди рабочих нефтедобывающих сооружений / -20% to mortality for oil extraction laborers
+-20% смертности среди механиков на рыболовных верфях / -20% to mortality for fishing machinists
+-20% смертности среди инженеров нефтедобывающих сооружений / -20% to mortality for oil extraction engineers
+-20% смертности среди рабочих нефтедобывающих сооружений / -20% to mortality for oil extraction laborers
 -25% смертности среди механиков нефтедобывающих сооружений / -25% to mortality for oil extraction machinists
--70% смертности среди инженеров на объектах инфраструктуры / -20% to mortality for infrastructure engineers
--70% смертности среди рабочих на объектах инфраструктуры / -20% to mortality for infrastructure laborers
+-20% смертности среди инженеров на объектах инфраструктуры / -20% to mortality for infrastructure engineers
+-20% смертности среди рабочих на объектах инфраструктуры / -20% to mortality for infrastructure laborers
 -50% смертности среди механиков на объектах инфраструктуры / -50% to mortality for infrastructure machinists
 
-#### eventcheats.10 - Быстрая дипломатия и прочие мелочи / Quick Diplomacy and Other Things
+#### event cheats.10 - Быстрая дипломатия и прочие мелочи / Quick Diplomacy and Other Things
 +20% к престижу / +20% to prestige
 +150% к скорости улучшения отношений / +150% to improve relations speed
 +20% к шансу успешного утверждения / +20% to law enactment success chance
 
-#### eventcheats.11 - Скорость изучения технологий / Technology Research Speed
+#### event cheats.11 - Скорость изучения технологий / Technology Research Speed
 +50% к скорости изучения технологий / +50% to technology research speed
 
-#### eventcheats.12 - Быстрое строительство / Fast Construction
+#### event cheats.12 - Быстрое строительство / Fast Construction
 +100.0% к эффективности строительства в области / +100.0% to construction efficiency in the state
 
-#### eventcheats.13 - Налоговый бум / Tax Boom
+#### event cheats.13 - Налоговый бум / Tax Boom
 +50000 к доходу от налогов / +50000 to Tax income
 +3000% к максимальному золотому запасу / +3000% to maximum gold reserve
 
-#### eventcheats.14 - Политическое господство / Political Dominance
+#### event cheats.14 - Политическое господство / Political Dominance
 +8 к одобрению заинтересованных групп, которых вы выберете / +8 to approval of interest groups you choose
 +200% к привлекательности заинтересованных групп для населения, которых вы выберете / +200% to population attraction for interest groups you choose
 
-#### eventcheats.15 - Ассимиляция и обращение / Assimilation and Conversion
+#### event cheats.15 - Ассимиляция и обращение / Assimilation and Conversion
 +3500% к ассимиляции / +3500% to assimilation
 +3500% к обращению / +3500% to conversion
 
-#### eventcheats.666 - Тест читов / Test Cheats
+#### event cheats.666 - Тест читов / Test Cheats
 +1000.0% к рождаемости общепризнанного населения / +1000.0% to birth rate of accepted population
+```
