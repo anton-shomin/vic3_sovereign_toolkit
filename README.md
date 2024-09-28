@@ -1,6 +1,5 @@
 # vic3_sovereign_toolkit
 16 Cheat events for Victoria 3 with English and Russian localization
-Конечно, вот резюме с Markdown разметкой для вашего `README.md`:
 
 ```markdown
 ###
