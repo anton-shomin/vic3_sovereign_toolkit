@@ -1,0 +1,195 @@
+# Cheats
+modifier_cheat_economy = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    state_tax_waste_add = -1               # -100% к налоговым потерям / -100% to tax waste
+    state_tax_collection_mult = 9          # +900% к сбору налогов / +900% to tax collection
+    state_tax_capacity_add = 999           # +999.0 к налоговой вместимости / +999.0 to tax capacity
+    country_free_trade_routes_add = 50     # +50 Бесплатных торговых путей / +50 Free trade routes
+    state_standard_of_living_add = 3       # +3.0 к уровню жизни / +3.0 to standard of living
+    country_construction_add = 5           # +5 к строительству / +5 to construction
+    building_training_rate_mult = 5        # +500% к скорости обучения / +500% to training rate
+    building_throughput_add = 5            # +500% к пропускной способности / +500% Throughput
+    state_construction_mult = 0.5          # +50.0% к эффективности строительства в регионе / +50.0% to construction efficiency in the state
+    building_economy_of_scale_level_cap_add = 2    # +2 к максимальному уровню эффекта масштаба здания / +2 to maximum level of building economy of scale effect
+    country_company_throughput_bonus_add = 10.05   # +1005.0% Бонус к пропускной способности компании / +1005.0% Company throughput bonus
+    country_company_construction_efficiency_bonus_add = 10.05   # +1005.0% Бонус к строительству от компании / +1005.0% Company construction bonus
+    state_migration_pull_mult = 0.25       # +25% к привлекательности миграции / +25% to migration attraction
+    country_tech_spread_add = 75           # +75 к распространению технологий / +75 to technology spread
+    building_goods_input_mult = -0.2       # -20.0% Потребление товаров / -20.0% Goods consumption
+    country_expenses_add = -300            # -300.0 к государственным расходам / -300.0 to government expenses
+    building_group_bg_manufacturing_throughput_add = 0.3    # +30% Пропускная способность для производственных зданий / +30% Throughput for manufacturing buildings
+    building_group_bg_service_throughput_add = 0.3          # +30% Пропускная способность для зданий сферы услуг / +30% Throughput for service buildings
+    building_group_bg_agriculture_throughput_add = 0.3      # +30% Пропускная способность для сельскохозяйственных зданий / +30% Throughput for agriculture buildings
+    building_group_bg_plantations_throughput_add = 0.3      # +30% Пропускная способность для плантаций / +30% Throughput for plantation buildings
+    building_group_bg_ranching_throughput_add = 0.3         # +30% Пропускная способность для ранчо / +30% Throughput for ranching buildings
+    building_group_bg_mining_throughput_add = 0.3           # +30% Пропускная способность для шахт / +30% Throughput for mining buildings
+    building_group_bg_logging_throughput_add = 0.3          # +30% Пропускная способность для лесозаготовок / +30% Throughput for logging buildings
+    building_group_bg_fishing_throughput_add = 0.3          # +30% Пропускная способность для рыболовства / +30% Throughput for fishing buildings
+    building_group_bg_whaling_throughput_add = 0.3          # +30% Пропускная способность для китобойного промысла / +30% Throughput for whaling buildings
+    building_group_bg_oil_extraction_throughput_add = 0.3   # +30% Пропускная способность для нефтедобычи / +30% Throughput for oil extraction buildings
+}
+
+modifier_cheat_army = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_rifle_positive.dds
+    building_training_rate_add = 1000      # +1000 к скорости обучения / +1000 to training rate
+    unit_army_defense_mult = 1800          # +180000% к защите армии / +180000% to army defense
+    unit_navy_defense_mult = 3             # +300% к защите флота / +300% to navy defense
+    unit_morale_recovery_mult = 0.9        # +90% к восстановлению морали / +90% to morale recovery
+    unit_morale_damage_mult = 1.0          # +100% к урону по морали / +100% to morale damage
+    state_conscription_rate_mult = 0.7     # +70% к уровню призыва / +70% to conscription rate
+    military_formation_organization_gain_mult = 2    # +200% Ежедневный прирост организации / +200% Daily organization gain
+    military_formation_attrition_risk_add = -1       # -1 к риску истощения / -1 to attrition risk
+    unit_advancement_speed_mult = 4        # +400% к скорости продвижения / +400% to advancement speed
+    unit_army_offense_mult = 3             # +300% к атаке армии / +300% to army offense
+    country_prestige_from_army_power_projection_mult = -3  # -300% Престиж от проекции силы армии / -300% Prestige from army power projection
+    country_prestige_from_navy_power_projection_mult = -3  # -300% Престиж от проекции силы флота / -300% Prestige from navy power projection
+    unit_convoy_raiding_mult = 1           # +100% к рейдам на конвои / +100% to convoy raiding
+    unit_convoy_defense_mult = 4           # +400% к защите конвоев / +400% to convoy defense
+    unit_convoy_raiding_interception_mult = 1  # +100% к перехвату рейдов на конвои / +100% to convoy raiding interception
+    unit_supply_consumption_mult = -0.6    # -60% к потреблению припасов / -60% to supply consumption
+    military_formation_mobilization_speed_mult = 1.2  # +120% к скорости мобилизации / +120% to mobilization speed
+}
+
+modifier_cheat_infrastructure = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    state_infrastructure_add = 40          # +40.0 к инфраструктуре / +40.0 to infrastructure
+    state_tax_capacity_add = 999           # +999.0 к налоговой вместимости / +999.0 to tax capacity
+}
+
+modifier_cheat_bureaucracy = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    country_bureaucracy_mult = 3           # +300.0% к количеству бюрократии / +300.0% to bureaucracy amount
+    country_bureaucracy_add = 100          # +100 к количеству бюрократии / +100 to bureaucracy amount
+}
+
+modifier_cheat_authority = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    country_authority_mult = 3             # +300% к количеству авторитета / +300% to authority amount
+}
+
+modifier_cheat_influence = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    country_influence_mult = 3             # +300% к количеству влияния / +300% to influence amount
+}
+
+modifier_cheat_birth_plus = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    state_accepted_birth_rate_mult = 1     # +100.0% к рождаемости принятого населения / +100.0% to birth rate of accepted population
+}
+
+modifier_cheat_maneuvers = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    country_diplomatic_play_maneuvers_add = 500   # +500 к дипломатическим маневрам / +500 to diplomatic play maneuvers
+}
+
+modifier_cheat_infamy = {
+    country_infamy_generation_mult = -1    # -100% к генерации бесславия / -100% to infamy generation
+    country_infamy_decay_mult = 3          # +300% к снижению бесславия / +300% to infamy decay
+}
+
+modifier_cheat_mortality = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    building_group_bg_mining_laborers_mortality_mult = -0.2    # -20% смертность для шахтеров / -20% mortality for mining laborers
+    building_group_bg_mining_machinists_mortality_mult = -0.2  # -20% смертность для машинистов в шахтах / -20% mortality for mining machinists
+    building_group_bg_mining_engineers_mortality_mult = -0.2   # -20% смертность для инженеров в шахтах / -20% mortality for mining engineers
+    building_group_bg_logging_laborers_mortality_mult = -0.2   # -20% смертность для лесорубов / -20% mortality for logging laborers
+    building_group_bg_logging_machinists_mortality_mult = -0.2 # -20% смертность для машинистов в лесозаготовках / -20% mortality for logging machinists
+    building_group_bg_logging_engineers_mortality_mult = -0.2  # -20% смертность для инженеров в лесозаготовках / -20% mortality for logging engineers
+    building_group_bg_oil_extraction_laborers_mortality_mult = -0.2   # -20% смертность для рабочих нефтедобычи / -20% mortality for oil extraction laborers
+    building_group_bg_oil_extraction_machinists_mortality_mult = -0.25 # -25% смертность для машинистов в нефтедобыче / -25% mortality for oil extraction machinists
+    building_group_bg_oil_extraction_engineers_mortality_mult = -0.2  # -20% смертность для инженеров в нефтедобыче / -20% mortality for oil extraction engineers
+    building_group_bg_light_industry_laborers_mortality_mult = -0.2  # -20% смертность для рабочих легкой промышленности / -20% mortality for light industry laborers
+    building_group_bg_light_industry_machinists_mortality_mult = -0.2 # -20% смертность для машинистов в легкой промышленности / -20% mortality for light industry machinists
+    building_group_bg_heavy_industry_laborers_mortality_mult = -0.2  # -20% смертность для рабочих тяжелой промышленности / -20% mortality for heavy industry laborers
+    building_group_bg_heavy_industry_machinists_mortality_mult = -0.5 # -50% смертность для машинистов в тяжелой промышленности / -50% mortality for heavy industry machinists
+    building_group_bg_heavy_industry_engineers_mortality_mult = -0.2 # -20% смертность для инженеров в тяжелой промышленности / -20% mortality for heavy industry engineers
+    building_group_bg_infrastructure_laborers_mortality_mult = -0.2 # -20% смертность для рабочих инфраструктуры / -20% mortality for infrastructure laborers
+    building_group_bg_infrastructure_machinists_mortality_mult = -0.5 # -50% смертность для машинистов в инфраструктуре / -50% mortality for infrastructure machinists
+    building_group_bg_infrastructure_engineers_mortality_mult = -0.2 # -20% смертность для инженеров в инфраструктуре / -20% mortality for infrastructure engineers
+    building_group_bg_whaling_laborers_mortality_mult = -0.2        # -20% смертность для китобоев / -20% mortality for whaling laborers
+    building_group_bg_whaling_machinists_mortality_mult = -0.5      # -50% смертность для машинистов в китобойном промысле / -50% mortality for whaling machinists
+    building_group_bg_fishing_laborers_mortality_mult = -0.5        # -50% смертность для рыбаков / -50% mortality for fishing laborers
+    building_group_bg_fishing_machinists_mortality_mult = -0.2      # -20% смертность для машинистов в рыболовстве / -20% mortality for fishing machinists
+    building_group_bg_fishing_engineers_mortality_mult = -0.2       # -20% смертность для инженеров в рыболовстве / -20% mortality for fishing engineers
+}
+
+modifier_cheat_improverelations = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    country_improve_relations_speed_mult = 1.5   # +150% к скорости улучшения отношений / +150% to improve relations speed
+    country_prestige_mult = 0.2                  # +20% к престижу / +20% to prestige
+    country_law_enactment_success_add = 0.2      # +20% к шансу успешного принятия законов / +20% to law enactment success chance
+}
+
+modifier_cheat_techspeed = {
+    country_tech_research_speed_mult = 0.5       # +50% Скорость исследования технологий / +50% Technology research speed
+}
+
+modifier_cheat_constructionefficiency = {
+    state_construction_mult = 1                  # +100.0% к эффективности строительства в регионе / +100.0% to construction efficiency in the state
+}
+
+modifier_cheat_goldmaxlimit = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    country_gold_reserve_limit_mult = 30         # +3000% к максимальному золотому запасу / +3000% to maximum gold reserve
+}
+
+modifier_cheat_goldplus = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    country_tax_income_add = 50000               # +50000 к налоговому доходу / +50000 to Tax income
+}
+
+modifier_cheat_political.landowners = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    interest_group_ig_landowners_approval_add = 8    # +8 к одобрению группы интересов землевладельцев / +8 to approval of landowners interest group
+    interest_group_ig_landowners_pop_attraction_mult = 2   # +200% к привлекательности группы интересов землевладельцев для населения / +200% to population attraction for landowners interest group
+}
+
+modifier_cheat_political.devout = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    interest_group_ig_devout_approval_add = 8          # +8 к одобрению группы интересов верующих / +8 to approval of devout interest group
+    interest_group_ig_devout_pop_attraction_mult = 2   # +200% к привлекательности группы интересов верующих для населения / +200% to population attraction for devout interest group
+}
+
+modifier_cheat_political.armed_forces = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    interest_group_ig_armed_forces_approval_add = 8    # +8 к одобрению группы интересов вооруженных сил / +8 to approval of armed forces interest group
+    interest_group_ig_armed_forces_pop_attraction_mult = 2   # +200% к привлекательности группы интересов вооруженных сил для населения / +200% to population attraction for armed forces interest group
+}
+
+modifier_cheat_political.petty_bourgeoisie = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    interest_group_ig_petty_bourgeoisie_approval_add = 8    # +8 к одобрению группы интересов мелкой буржуазии / +8 to approval of petty bourgeoisie interest group
+    interest_group_ig_petty_bourgeoisie_pop_attraction_mult = 2   # +200% к привлекательности группы интересов мелкой буржуазии для населения / +200% to population attraction for petty bourgeoisie interest group
+}
+
+modifier_cheat_political.industrialists = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    interest_group_ig_industrialists_approval_add = 8    # +8 к одобрению группы интересов промышленников / +8 to approval of industrialists interest group
+    interest_group_ig_industrialists_pop_attraction_mult = 2   # +200% к привлекательности группы интересов промышленников для населения / +200% to population attraction for industrialists interest group
+}
+
+modifier_cheat_political.intelligentsia = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    interest_group_ig_intelligentsia_approval_add = 8    # +8 к одобрению группы интересов интеллигенции / +8 to approval of intelligentsia interest group
+    interest_group_ig_intelligentsia_pop_attraction_mult = 2   # +200% к привлекательности группы интересов интеллигенции для населения / +200% to population attraction for intelligentsia interest group
+}
+
+modifier_cheat_political.rural_folk = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    interest_group_ig_rural_folk_approval_add = 8    # +8 к одобрению группы интересов сельских жителей / +8 to approval of rural folk interest group
+    interest_group_ig_rural_folk_pop_attraction_mult = 2   # +200% к привлекательности группы интересов сельских жителей для населения / +200% to population attraction for rural folk interest group
+}
+
+modifier_cheat_political.trade_unions = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    interest_group_ig_trade_unions_approval_add = 8    # +8 к одобрению группы интересов профсоюзов / +8 to approval of trade unions interest group
+    interest_group_ig_trade_unions_pop_attraction_mult = 2   # +200% к привлекательности группы интересов профсоюзов для населения / +200% to population attraction for trade unions interest group
+}
+
+modifier_cheat_assimilation_mult = {
+    state_assimilation_mult = 35            # +3500% к ассимиляции / +3500% to assimilation
+}
+
+modifier_cheat_conversion_mult = {
+    state_conversion_mult = 35              # +3500% к обращению / +3500% to conversion
+}

@@ -1,0 +1,23 @@
+widget = {
+	name = "error_deer"
+	parentanchor = bottom|hcenter
+	position = { 920 -30 }
+	layer = top
+	using = clickthrough_blocker
+	
+	#poyan was here
+
+	flowcontainer = {
+		direction = vertical
+		resizeparent = yes
+		spacing = 10
+		
+		button = {
+			name = "Console"
+			using = default_button
+			size = { 40 40 }
+			onclick = "[ExecuteConsoleCommand('debug_mode')]"
+			raw_text = "#BOLD C"
+		}
+	}
+}
