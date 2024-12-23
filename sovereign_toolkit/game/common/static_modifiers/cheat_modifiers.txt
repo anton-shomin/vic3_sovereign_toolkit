@@ -193,3 +193,7 @@ modifier_cheat_assimilation_mult = {
 modifier_cheat_conversion_mult = {
     state_conversion_mult = 35              # +3500% к обращению / +3500% to conversion
 }
+
+modifier_test_cheating = {
+    state_accepted_birth_rate_mult = 10
+}
