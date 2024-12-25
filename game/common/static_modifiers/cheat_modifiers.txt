@@ -74,7 +74,7 @@ modifier_cheat_influence = {
 
 modifier_cheat_birth_plus = {
     icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
-    state_accepted_birth_rate_mult = 1     # +100.0% к рождаемости принятого населения / +100.0% to birth rate of accepted population
+    state_birth_rate_mult = 1     # +100.0% к рождаемости принятого населения / +100.0% to birth rate of accepted population
 }
 
 modifier_cheat_maneuvers = {
@@ -195,5 +195,5 @@ modifier_cheat_conversion_mult = {
 }
 
 modifier_test_cheating = {
-    state_accepted_birth_rate_mult = 10
+    state_birth_rate_mult = 10
 }
