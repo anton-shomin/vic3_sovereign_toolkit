@@ -10,6 +10,9 @@
   cheat_gold.f: "...Of course, ordinary people complain about the unbearable burden. But they simply don't understand what great deeds we can accomplish with this money! New palaces, luxurious receptions, military campaigns - all this will become possible thanks to the selflessness of our subjects."
   economy_cheat_goldplus.1.a: "Activate tax cheat"
   economy_cheat_goldplus.1.b: "Deactivate tax cheat"
+  economy_cheat_goldmax.1.a: "Activate huge tax cheat"
+  economy_cheat_goldmax.1.b: "Deactivate huge tax cheat"
+
   economy_goldmaxlimit_mult.1.a: "Activate economic reserve cheat"
   economy_goldmaxlimit_mult.1.b: "Deactivate economic reserve cheat"
 

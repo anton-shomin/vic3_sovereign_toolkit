@@ -326,6 +326,12 @@
             name = modifier_cheat_goldmaxlimit
         }
     }
+	option = {
+        name = economy_cheat_goldmax.1.a
+        add_modifier = {
+            name = modifier_cheat_goldmax
+        }
+    }
 
     option = {
         name = economy_cheat_goldplus.1.b
@@ -336,6 +342,12 @@
         name = economy_goldmaxlimit_mult.1.b
         remove_modifier = modifier_cheat_goldmaxlimit
     }
+
+    option = {
+        name = economy_cheat_goldmax.1.b
+        remove_modifier = modifier_cheat_goldmax
+    }
+	
 }
 
 	cheats.14 = {

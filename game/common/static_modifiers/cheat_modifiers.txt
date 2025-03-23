@@ -140,6 +140,11 @@ modifier_cheat_goldplus = {
     country_tax_income_add = 50000               # +50000 к налоговому доходу / +50000 to Tax income
 }
 
+modifier_cheat_goldmax = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
+    country_tax_income_add = 1000000               # +50000 к налоговому доходу / +50000 to Tax income
+}
+
 modifier_cheat_political.landowners = {
     icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
     interest_group_ig_landowners_approval_add = 8    # +8 к одобрению группы интересов землевладельцев / +8 to approval of landowners interest group
