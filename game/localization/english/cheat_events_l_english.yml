@@ -151,3 +151,22 @@
   modifier_cheat_assimilation_mult: "Concentration Camps"
   modifier_cheat_conversion_mult: "Religious Re-education Camps"
   modifier_cheat_infamy: "Impeccable Reputation"
+
+  cheat_production.t: "Production Booster"
+  cheat_production.d: "Choose which sector of your economy you want to boost with this cheat."
+  cheat_production.f: "With this powerful economic manipulation, you can significantly increase production in any sector of your choice. This represents the kind of economic miracle that would normally take decades of industrial policy to achieve."
+
+  cheat_production.1.a: "Boost Military Production"
+  cheat_production.2.a: "Boost Staple Production"
+  cheat_production.3.a: "Boost Industrial Production"
+  cheat_production.4.a: "Boost Luxury Production"
+
+  cheat_production.1.b: "Remove Military Production Boost"
+  cheat_production.2.b: "Remove Staple Production Boost"
+  cheat_production.3.b: "Remove Industrial Production Boost" 
+  cheat_production.4.b: "Remove Luxury Production Boost"
+
+  modifier_military_production: "Military Production Boost"
+  modifier_staple_production: "Staple Production Boost"
+  modifier_industrial_production: "Industrial Production Boost"
+  modifier_luxury_production: "Luxury Production Boost"

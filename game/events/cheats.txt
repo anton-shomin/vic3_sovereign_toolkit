@@ -532,25 +532,58 @@ cheats.9002 = {
 		}
 	}
 
-	cheats.666 = {
+	cheats.16 = {
 		type = country_event
 		placement = root
 
-		title = test_cheating.t
-		desc = test_cheating.d
-		flavor = test_cheating.f
-    		event_image = {
+		title = cheat_production.t
+		desc = cheat_production.d
+		flavor = cheat_production.f
+    event_image = {
 			texture = "gfx/event_pictures/cheat_666.dds"
-			}
-
-       		option = {
-			name = test_cheating.1.a
-			add_modifier = {
-         		name = modifier_test_cheating
-       		}
-	}
-		option = {
-			name = test_cheating.1.b
-			remove_modifier = modifier_test_cheating
 		}
+    option = {
+      name = cheat_production.1.a
+      add_modifier = {
+    	  name = modifier_military_production
+    	}
+	  }
+    option = {
+      name = cheat_production.2.a
+      add_modifier = {
+        name = modifier_staple_production
+      }
+    }
+    option = {
+      name = cheat_production.3.a
+      add_modifier = {
+        name = modifier_industrial_production
+      }
+    }
+    option = {
+      name = cheat_production.4.a
+      add_modifier = {
+        name = modifier_luxury_production
+      }
+      }
+		option = {
+			name = cheat_production.1.b
+			remove_modifier = modifier_military_production
+		}
+    
+    option = {
+      name = cheat_production.2.b
+      remove_modifier = modifier_staple_production
+    }
+    
+    option = {
+      name = cheat_production.3.b
+      remove_modifier = modifier_industrial_production
+    }
+    
+		option = {
+			name = cheat_production.4.b
+			remove_modifier = modifier_luxury_production
+		} 
+
 	}

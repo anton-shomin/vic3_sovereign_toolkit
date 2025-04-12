@@ -4,7 +4,7 @@ modifier_cheat_economy = {
     state_tax_waste_add = -1               # -100% к налоговым потерям / -100% to tax waste
     state_tax_collection_mult = 9          # +900% к сбору налогов / +900% to tax collection
     state_tax_capacity_add = 999           # +999.0 к налоговой вместимости / +999.0 to tax capacity
-    country_free_trade_routes_add = 50     # +50 Бесплатных торговых путей / +50 Free trade routes
+    country_free_trade_routes_add = 500     # +50 Бесплатных торговых путей / +50 Free trade routes
     state_standard_of_living_add = 3       # +3.0 к уровню жизни / +3.0 to standard of living
     country_construction_add = 5           # +5 к строительству / +5 to construction
     building_training_rate_mult = 5        # +500% к скорости обучения / +500% to training rate
@@ -27,6 +27,7 @@ modifier_cheat_economy = {
     building_group_bg_fishing_throughput_add = 0.3          # +30% Пропускная способность для рыболовства / +30% Throughput for fishing buildings
     building_group_bg_whaling_throughput_add = 0.3          # +30% Пропускная способность для китобойного промысла / +30% Throughput for whaling buildings
     building_group_bg_oil_extraction_throughput_add = 0.3   # +30% Пропускная способность для нефтедобычи / +30% Throughput for oil extraction buildings
+    country_trade_route_competitiveness_mult = 1
 }
 
 modifier_cheat_army = {
@@ -50,6 +51,7 @@ modifier_cheat_army = {
     military_formation_mobilization_speed_mult = 1.2  # +120% к скорости мобилизации / +120% to mobilization speed
     unit_recovery_rate_add = 1
     unit_kill_rate_add = 0.5
+    military_formation_movement_speed_mult = 0.25
 }
 
 modifier_cheat_infrastructure = {
@@ -205,7 +207,71 @@ modifier_test_cheating = {
     state_birth_rate_mult = 10
 }
 
-modifier_strive_for_freedom = {
-    icon = gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds
-    country_liberty_desire_increase_mult = 200
+modifier_military_production = {
+  goods_output_ammunition_mult = 1
+  goods_output_small_arms_mult = 1
+	goods_output_artillery_mult = 1
+	goods_output_tanks_mult = 1
+	goods_output_aeroplanes_mult = 1
+	goods_output_manowars_mult = 1
+	goods_output_ironclads_mult = 1
+}
+
+modifier_staple_production = {
+  goods_output_fabric_mult = 1
+  goods_output_electricity_mult = 1
+  building_cotton_plantation_throughput_add = 1.5
+  country_resource_discovery_chance_mult = 1.5
+  building_construction_sector_throughput_add = 1.5
+  country_max_declared_interests_add = 10
+  building_economy_of_scale_level_cap_add = 25
+  goods_output_grain_add = 100
+	goods_output_fish_add = 100	
+	goods_output_wood_add = 100
+	goods_output_groceries_add = 100
+	goods_output_clothes_add = 100
+	goods_output_furniture_add = 100
+	goods_output_paper_add = 100
+	goods_output_services_add = 100
+	goods_output_transportation_add = 100  
+}
+
+modifier_industrial_production = {
+  goods_output_clippers_mult = 1
+  goods_output_steamers_mult = 1
+	goods_output_silk_mult = 1
+	goods_output_dye_mult = 1
+	goods_output_sulfur_mult = 1
+	goods_output_coal_mult = 1
+	goods_output_iron_mult = 1
+	goods_output_lead_mult = 1
+	goods_output_hardwood_mult = 1
+	goods_output_rubber_mult = 1
+	goods_output_oil_mult = 1
+	goods_output_engines_mult = 1
+	goods_output_steel_mult = 1
+	goods_output_glass_mult = 1
+	goods_output_fertilizer_mult = 1
+	goods_output_tools_mult = 1
+	goods_output_explosives_mult = 1
+}
+
+modifier_luxury_production = {
+  goods_output_porcelain_mult = 1
+  goods_output_meat_mult = 1
+	goods_output_fruit_mult = 1
+	goods_output_liquor_mult = 1
+	goods_output_wine_mult = 1
+	goods_output_tea_mult = 1
+	goods_output_coffee_mult = 1
+	goods_output_sugar_mult = 1
+	goods_output_tobacco_mult = 1
+	goods_output_opium_mult = 1
+	goods_output_automobiles_mult = 1
+	goods_output_telephones_mult = 1
+	goods_output_radios_mult = 1
+	goods_output_luxury_clothes_mult = 1
+	goods_output_luxury_furniture_mult = 1
+	goods_output_gold_mult = 1
+  goods_output_fine_art_mult = 1
 }
