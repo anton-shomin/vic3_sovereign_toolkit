@@ -540,7 +540,7 @@ cheats.9002 = {
 		desc = cheat_production.d
 		flavor = cheat_production.f
     event_image = {
-			texture = "gfx/event_pictures/cheat_666.dds"
+			texture = "gfx/event_pictures/cheat_9001.dds"
 		}
     option = {
       name = cheat_production.1.a
@@ -565,7 +565,13 @@ cheats.9002 = {
       add_modifier = {
         name = modifier_luxury_production
       }
+    }
+    option = {
+      name = cheat_production.5.a
+      add_modifier = {
+        name = modifier_convoys
       }
+    }
 		option = {
 			name = cheat_production.1.b
 			remove_modifier = modifier_military_production
@@ -584,6 +590,11 @@ cheats.9002 = {
 		option = {
 			name = cheat_production.4.b
 			remove_modifier = modifier_luxury_production
+		} 
+
+    option = {
+			name = cheat_production.5.b
+			remove_modifier = modifier_convoys
 		} 
 
 	}

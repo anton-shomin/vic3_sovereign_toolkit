@@ -163,9 +163,11 @@
 
   cheat_production.1.b: "Remove Military Production Boost"
   cheat_production.2.b: "Remove Staple Production Boost"
-  cheat_production.3.b: "Remove Industrial Production Boost" 
+  cheat_production.3.b: "Remove Industrial Production Boost"
   cheat_production.4.b: "Remove Luxury Production Boost"
-
+  cheat_production.5.a: "Boost Convoy System"
+  cheat_production.5.b: "Remove Convoy System Boost"
+  modifier_convoys: "Convoy System Boost"
   modifier_military_production: "Military Production Boost"
   modifier_staple_production: "Staple Production Boost"
   modifier_industrial_production: "Industrial Production Boost"
