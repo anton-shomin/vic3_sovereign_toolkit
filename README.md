@@ -1,6 +1,6 @@
 Вот исправленная разметка с оформлением пунктов в виде списка:
 
-#### event cheats.1 - Усилить экономику / Enhance Economy
+## event cheats.1 - Усилить экономику / Enhance Economy
 
 - +1005.0% Бонус к товарообороту от компании / +1005.0% Company throughput bonus
 - +1005.0% Бонус к строительству от компании / +1005.0% Company construction bonus
@@ -29,7 +29,7 @@
 - +30.0% Товарооборот рыболовецкой промышленности / +30.0% Throughput for fishing buildings
 - +30.0% Товарооборот китобойной промышленности / +30.0% Throughput for whaling buildings
 
-#### event cheats.2 - Усилить армию / Enhance Army
+## event cheats.2 - Усилить армию / Enhance Army
 
 - +70% к количеству призываемых батальонов / +70% to conscription rate
 - +1800% к защите армии / +1800% to army defense
@@ -39,35 +39,35 @@
 - +200% Ежедневный прирост организации / +200% Daily organization gain
 - -1 к риску истощения / -1 to attrition risk
 
-#### event cheats.3 - Инфраструктура / Infrastructure
+## event cheats.3 - Инфраструктура / Infrastructure
 
 - +999.0 к потенциалу налогообложения / +999.0 to tax capacity
 - +40.0 к инфраструктуре / +40.0 to infrastructure
 
-#### event cheats.4 - Бюрократия / Bureaucracy
+## event cheats.4 - Бюрократия / Bureaucracy
 
 - +300% к количеству бюрократии / +300% to bureaucracy amount
 - +100 к количеству бюрократии / +100 to bureaucracy amount
 
-#### event cheats.5 - Авторитет / Authority
+## event cheats.5 - Авторитет / Authority
 
 - +300% к количеству авторитета / +300% to authority amount
 
-#### event cheats.6 - Влияние / Influence
+## event cheats.6 - Влияние / Influence
 
 - +300% к количеству влияния / +300% to influence amount
 
-#### event cheats.7 - Рождаемость / Birth Rate
+## event cheats.7 - Рождаемость / Birth Rate
 
 - +100.0% к рождаемости общепризнанного населения / +100.0% to birth rate of accepted population
 
-#### event cheats.8 - Дипломатические манёвры / Diplomatic Maneuvers
+## event cheats.8 - Дипломатические манёвры / Diplomatic Maneuvers
 
 - +500 к количеству манёвров на дипломатическую игру / +500 to diplomatic play maneuvers
 - -100% к получению дурной славы / -100% to infamy generation
 - +300% к снижению дурной славы / +300% to infamy decay
 
-#### event cheats.9 - Смертность / Mortality
+## event cheats.9 - Смертность / Mortality
 
 - -20% к смертности среди рабочих занятых на рудниках / -20% to mortality for mining laborers
 - -20% к смертности среди механиков занятых на рудниках / -20% to mortality for mining machinists
@@ -92,35 +92,109 @@
 - -20% смертности среди рабочих на объектах инфраструктуры / -20% to mortality for infrastructure laborers
 - -50% смертности среди механиков на объектах инфраструктуры / -50% to mortality for infrastructure machinists
 
-#### event cheats.10 - Быстрая дипломатия и прочие мелочи / Quick Diplomacy and Other Things
+## event cheats.10 - Быстрая дипломатия и прочие мелочи / Quick Diplomacy and Other Things
 
 - +20% к престижу / +20% to prestige
 - +150% к скорости улучшения отношений / +150% to improve relations speed
 - +20% к шансу успешного утверждения / +20% to law enactment success chance
 
-#### event cheats.11 - Скорость изучения технологий / Technology Research Speed
+## event cheats.11 - Скорость изучения технологий / Technology Research Speed
 
 - +50% к скорости изучения технологий / +50% to technology research speed
 
-#### event cheats.12 - Быстрое строительство / Fast Construction
+## event cheats.12 - Быстрое строительство / Fast Construction
 
 - +100.0% к эффективности строительства в области / +100.0% to construction efficiency in the state
 
-#### event cheats.13 - Налоговый бум / Tax Boom
+## event cheats.13 - Налоговый бум / Tax Boom
 
 - +50000 к доходу от налогов / +50000 to Tax income
 - +3000% к максимальному золотому запасу / +3000% to maximum gold reserve
 
-#### event cheats.14 - Политическое господство / Political Dominance
+## event cheats.14 - Политическое господство / Political Dominance
 
 - +8 к одобрению заинтересованных групп, которых вы выберете / +8 to approval of interest groups you choose
 - +200% к привлекательности заинтересованных групп для населения, которых вы выберете / +200% to population attraction for interest groups you choose
 
-#### event cheats.15 - Ассимиляция и обращение / Assimilation and Conversion
+## event cheats.15 - Ассимиляция и обращение / Assimilation and Conversion
 
 - +3500% к ассимиляции / +3500% to assimilation
 - +3500% к обращению / +3500% to conversion
 
-#### event cheats.666 - Тест читов / Test Cheats
+## event cheats.16 - Усилитель производства / Production Booster
+#### Military Production Boost - Увеличение военного производства
 
-- +1000.0% к рождаемости общепризнанного населения / +1000.0% to birth rate of accepted population
+- Увеличение производства боеприпасов на 100% / Increases ammunition production by 100%
+- Увеличение производства стрелкового оружия на 100% / Increases small arms production by 100%
+- Увеличение производства артиллерии на 100% / Increases artillery production by 100%
+- Увеличение производства танков на 100% / Increases tank production by 100%
+- Увеличение производства аэропланов на 100% / Increases aeroplane production by 100%
+- Увеличение производства мановаров на 100% / Increases manowar production by 100%
+- Увеличение производства броненосцев на 100% / Increases ironclad production by 100%
+
+#### Staple Production Boost - Увеличение производства базовых товаров
+
+- Увеличение производства ткани на 100% / Increases fabric production by 100%
+- Увеличение производства электричества на 100% / Increases electricity production by 100%
+- Увеличение производительности хлопковых плантаций на 150% / Increases cotton plantation throughput by 150%
+- Увеличение шанса открытия ресурсов на 150% / Increases resource discovery chance by 150%
+- Увеличение пропускной способности строительного сектора на 150% / Increases construction sector throughput by 150%
+- Добавляет 10 к максимуму объявленных интересов / Adds 10 to maximum declared interests
+- Добавляет 25 к максимальному уровню эффекта масштаба / Adds 25 to economy of scale level cap
+- Добавляет 100 к производству зерна / Adds 100 to grain production
+- Добавляет 100 к производству рыбы / Adds 100 to fish production
+- Добавляет 100 к производству древесины / Adds 100 to wood production
+- Добавляет 100 к производству бакалеи / Adds 100 to groceries production
+- Добавляет 100 к производству одежды / Adds 100 to clothes production
+- Добавляет 100 к производству мебели / Adds 100 to furniture production
+- Добавляет 100 к производству бумаги / Adds 100 to paper production
+- Добавляет 100 к производству услуг / Adds 100 to services production
+- Добавляет 100 к производству транспорта / Adds 100 to transportation production
+
+#### Industrial Production Boost - Увеличение промышленного производства
+
+- Увеличение производства клиперов на 100% / Increases clipper production by 100%
+- Увеличение производства пароходов на 100% / Increases steamer production by 100%
+- Увеличение производства шелка на 100% / Increases silk production by 100%
+- Увеличение производства красителей на 100% / Increases dye production by 100%
+- Увеличение производства серы на 100% / Increases sulfur production by 100%
+- Увеличение производства угля на 100% / Increases coal production by 100%
+- Увеличение производства железа на 100% / Increases iron production by 100%
+- Увеличение производства свинца на 100% / Increases lead production by 100%
+- Увеличение производства твердой древесины на 100% / Increases hardwood production by 100%
+- Увеличение производства каучука на 100% / Increases rubber production by 100%
+- Увеличение производства нефти на 100% / Increases oil production by 100%
+- Увеличение производства двигателей на 100% / Increases engine production by 100%
+- Увеличение производства стали на 100% / Increases steel production by 100%
+- Увеличение производства стекла на 100% / Increases glass production by 100%
+- Увеличение производства удобрений на 100% / Increases fertilizer production by 100%
+- Увеличение производства инструментов на 100% / Increases tools production by 100%
+- Увеличение производства взрывчатки на 100% / Increases explosives production by 100%
+
+#### Luxury Production Boost - Увеличение производства предметов роскоши
+
+- Увеличение производства фарфора на 100% / Increases porcelain production by 100%
+- Увеличение производства мяса на 100% / Increases meat production by 100%
+- Увеличение производства фруктов на 100% / Increases fruit production by 100%
+- Увеличение производства ликера на 100% / Increases liquor production by 100%
+- Увеличение производства вина на 100% / Increases wine production by 100%
+- Увеличение производства чая на 100% / Increases tea production by 100%
+- Увеличение производства кофе на 100% / Increases coffee production by 100%
+- Увеличение производства сахара на 100% / Increases sugar production by 100%
+- Увеличение производства табака на 100% / Increases tobacco production by 100%
+- Увеличение производства опиума на 100% / Increases opium production by 100%
+- Увеличение производства автомобилей на 100% / Increases automobile production by 100%
+- Увеличение производства телефонов на 100% / Increases telephone production by 100%
+- Увеличение производства радио на 100% / Increases radio production by 100%
+- Увеличение производства элитной одежды на 100% / Increases luxury clothes production by 100%
+- Увеличение производства элитной мебели на 100% / Increases luxury furniture production by 100%
+- Увеличение производства золота на 100% / Increases gold production by 100%
+- Увеличение производства предметов искусства на 100% / Increases fine art production by 100%
+
+#### Convoy System Boost - Улучшение конвойной системы
+
+- Добавляет 1 к вкладу конвоев владельцу рынка / Adds 1 to convoy contribution to market owner
+- Уменьшает потребность юнитов в конвоях на 50% / Reduces unit convoy requirements by 50%
+- Уменьшает стоимость торговых путей на 50% / Reduces trade route cost by 50%
+- Увеличивает вместимость конвоев на 100% / Increases convoy capacity by 100%
+- Увеличивает конкурентоспособность торговых путей на 300% / Increases trade route competitiveness by 300%
