@@ -1,4 +1,6 @@
-Вот исправленная разметка с оформлением пунктов в виде списка:
+Deer icon re
+Also imported very basic mod that changes the error deer in debug mode to a tiny button that activate and deactivates the debug mode
+https://www.nexusmods.com/victoria3/mods/16?tab=description
 
 ## event cheats.1 - Усилить экономику / Enhance Economy
 
