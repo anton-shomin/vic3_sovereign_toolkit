@@ -598,3 +598,26 @@ cheats.9002 = {
 		} 
 
 	}
+
+  cheats.17 = {
+    type = country_event
+		placement = root
+
+		title = cheat_test.t
+		desc = cheat_test.d
+		flavor = cheat_test.f
+    event_image = {
+			texture = "gfx/event_pictures/cheat_9001.dds"
+		}
+    option = {
+      name = cheat_test.1.a
+      add_modifier = {
+    	  name = test_modifier
+    	}
+	  }    
+		option = {
+			name = cheat_test.1.b
+			remove_modifier = test_modifier
+		
+    }
+  }

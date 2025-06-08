@@ -15,7 +15,7 @@ modifier_cheat_economy = {
     country_company_construction_efficiency_bonus_add = 10.05   # +1005.0% Бонус к строительству от компании / +1005.0% Company construction bonus
     state_migration_pull_mult = 0.25       # +25% к привлекательности миграции / +25% to migration attraction
     country_tech_spread_add = 75           # +75 к распространению технологий / +75 to technology spread
-    building_goods_input_mult = -0.2       # -20.0% Потребление товаров / -20.0% Goods consumption
+    building_goods_input_mult = -0.5       # -20.0% Потребление товаров / -20.0% Goods consumption
     country_expenses_add = -300            # -300.0 к государственным расходам / -300.0 to government expenses
     building_group_bg_manufacturing_throughput_add = 0.3    # +30% Пропускная способность для производственных зданий / +30% Throughput for manufacturing buildings
     building_group_bg_service_throughput_add = 0.3          # +30% Пропускная способность для зданий сферы услуг / +30% Throughput for service buildings
@@ -27,7 +27,8 @@ modifier_cheat_economy = {
     building_group_bg_fishing_throughput_add = 0.3          # +30% Пропускная способность для рыболовства / +30% Throughput for fishing buildings
     building_group_bg_whaling_throughput_add = 0.3          # +30% Пропускная способность для китобойного промысла / +30% Throughput for whaling buildings
     building_group_bg_oil_extraction_throughput_add = 0.3   # +30% Пропускная способность для нефтедобычи / +30% Throughput for oil extraction buildings
-    country_trade_route_competitiveness_mult = 1
+    country_trade_route_competitiveness_mult = 3
+    country_trade_route_cost_mult = -0.5
 }
 
 modifier_cheat_army = {
@@ -205,13 +206,13 @@ modifier_cheat_conversion_mult = {
 
 
 modifier_military_production = {
-  goods_output_ammunition_mult = 1        # +100% к производству боеприпасов / +100% to ammunition production
-  goods_output_small_arms_mult = 1        # +100% к производству стрелкового оружия / +100% to small arms production
-  goods_output_artillery_mult = 1         # +100% к производству артиллерии / +100% to artillery production
-  goods_output_tanks_mult = 1             # +100% к производству танков / +100% to tank production
-  goods_output_aeroplanes_mult = 1        # +100% к производству самолетов / +100% to aeroplane production
-  goods_output_manowars_mult = 1          # +100% к производству военных кораблей / +100% to manowar production
-  goods_output_ironclads_mult = 1         # +100% к производству броненосцев / +100% to ironclad production
+  goods_output_ammunition_mult = 2        # +100% к производству боеприпасов / +100% to ammunition production
+  goods_output_small_arms_mult = 2        # +100% к производству стрелкового оружия / +100% to small arms production
+  goods_output_artillery_mult = 2         # +100% к производству артиллерии / +100% to artillery production
+  goods_output_tanks_mult = 2             # +100% к производству танков / +100% to tank production
+  goods_output_aeroplanes_mult = 2        # +100% к производству самолетов / +100% to aeroplane production
+  goods_output_manowars_mult = 2          # +100% к производству военных кораблей / +100% to manowar production
+  goods_output_ironclads_mult = 2         # +100% к производству броненосцев / +100% to ironclad production
 }
 
 modifier_staple_production = {
@@ -279,4 +280,23 @@ modifier_convoys = {
   country_trade_route_cost_mult = -0.5    # -50% к стоимости торговых маршрутов / -50% to trade route cost
   country_convoys_capacity_mult = 1       # +100% к вместимости конвоев / +100% to convoy capacity
   country_trade_route_competitiveness_mult = 3  # +300% к конкурентоспособности торговых маршрутов / +300% to trade route competitiveness
+}
+
+test_modifier = {
+  country_weekly_innovation_add = 999
+  country_minting_add = 999
+  state_lower_strata_expected_sol_add = 5
+	state_middle_strata_expected_sol_add = 10
+	state_upper_strata_expected_sol_add = 15
+	state_expected_sol_from_literacy = 5
+  state_farmers_investment_pool_contribution_add = 0.10
+	state_shopkeepers_investment_pool_contribution_add = 0.20
+	state_clergymen_investment_pool_contribution_add = 0.20
+	state_aristocrats_investment_pool_contribution_add = 0.20
+	state_capitalists_investment_pool_contribution_add = 0.30
+  building_mobilization_cost_mult = 999
+  state_market_access_price_impact = 999
+  country_military_goods_cost_mult = -0.75
+  country_trade_route_quantity_mult = 9
+  tariff_import_add = -0.25
 }
