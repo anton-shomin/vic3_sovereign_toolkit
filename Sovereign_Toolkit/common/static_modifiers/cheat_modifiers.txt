@@ -39,24 +39,31 @@ modifier_cheat_economy = {
     state_capitalists_investment_pool_contribution_add = 0.5
     building_mobilization_cost_mult = -0.99   # NOTE: Value changed to be beneficial
     country_military_goods_cost_mult = -0.75
-
+    country_consumption_tax_cost_mult = -0.75
     country_trade_route_competitiveness_mult = 3
     country_trade_route_cost_mult = -0.5
+    country_loan_interest_rate_mult = -0.5
+    country_loan_interest_rate_add = -0.20
+    state_radicals_from_discrimination_mult = -0.5
+    state_radicals_from_sol_change_mult = -0.5
+    country_legitimacy_ideological_incoherence_mult = -0.50
+    state_radicalism_increases_full_acceptance_mult = -0.50
+    state_radicalism_increases_second_rate_citizen_mult = -0.25
+    country_law_enactment_time_mult = -0.50
 }
 
 modifier_cheat_army = {
     icon = gfx/interface/icons/timed_modifier_icons/modifier_rifle_positive.dds
     building_training_rate_add = 1000      # +1000 к скорости обучения / +1000 to training rate
-    unit_army_defense_mult = 1800          # +180000% к защите армии / +180000% to army defense
-    unit_navy_defense_mult = 1300             # +300% к защите флота / +300% to navy defense
+    unit_offense_mult = 4
+    unit_defense_mult = 1800
     unit_morale_recovery_mult = 0.9        # +90% к восстановлению морали / +90% to morale recovery
     unit_morale_damage_mult = 1.0          # +100% к урону по морали / +100% to morale damage
     state_conscription_rate_mult = 0.7     # +70% к уровню призыва / +70% to conscription rate
     military_formation_organization_gain_mult = 2    # +200% Ежедневный прирост организации / +200% Daily organization gain
     military_formation_attrition_risk_add = -1       # -1 к риску истощения / -1 to attrition risk
     unit_advancement_speed_mult = 4        # +400% к скорости продвижения / +400% to advancement speed
-    unit_army_offense_mult = 3             # +300% к атаке армии / +300% to army offense
-    unit_navy_offense_mult = 3
+
     country_prestige_from_army_power_projection_mult = -3  # -300% Престиж от проекции силы армии / -300% Prestige from army power projection
     country_prestige_from_navy_power_projection_mult = -3  # -300% Престиж от проекции силы флота / -300% Prestige from navy power projection
     unit_convoy_raiding_mult = 1           # +100% к рейдам на конвои / +100% to convoy raiding
@@ -67,6 +74,7 @@ modifier_cheat_army = {
     unit_recovery_rate_add = 1
     unit_kill_rate_add = 0.5
     military_formation_movement_speed_mult = 0.25
+    unit_experience_gain_mult = 0.50
 }
 
 modifier_cheat_infrastructure = {
@@ -297,14 +305,9 @@ modifier_convoys = {
 }
 
 modifier_test = {
-    # VALID MODIFIERS
-    
-    
+    # VALID MODIFIERS (all duplicates from previous modifiers removed)
 
 }
-
 modifier_test_2 = {
     # VALID MODIFIERS
-       
-   
 }
