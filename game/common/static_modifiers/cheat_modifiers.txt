@@ -300,3 +300,37 @@ test_modifier = {
   country_trade_route_quantity_mult = 9
   tariff_import_add = -0.25
 }
+
+test_modifier_2 = {
+	# Усиление производства товаров
+country_goods_production_mult = 2.0          # +200% к производству товаров
+
+# Множитель на инвестиционные пуулы всех слоёв населения
+state_farmers_investment_pool_contribution_add = 0.5
+state_shopkeepers_investment_pool_contribution_add = 0.5
+state_clergymen_investment_pool_contribution_add = 0.5
+state_aristocrats_investment_pool_contribution_add = 0.5
+state_capitalists_investment_pool_contribution_add = 0.5
+
+# Торговые тарифы
+tariff_import_mult = -0.9
+tariff_export_mult = -0.9
+
+# Увеличение торговой дальности и скорости
+country_trade_route_range_mult = 2.0           # +100% к дальности торговых путей
+country_trade_speed_mult = 2.0                  # +100% к скорости торговли
+
+# Улучшение производительности предприятий
+factory_efficiency_mult = 2.0                   # +100% к эффективности фабрик
+
+# Увеличение миграционного притока для рабочих и специалистов
+state_migration_pull_mult = 0.5                  # +50% к привлекательности миграции (можно понизить коллапс на рынках труда)
+
+# Увеличение максимального количества объявленных интересов
+country_max_declared_interests_add = 20
+
+# Бонусы для золота
+country_gold_reserve_limit_mult = 50            # +5000% к лимиту золота
+country_gold_production_mult = 5.0               # +400% к производству золота
+
+}
