@@ -56,6 +56,7 @@ modifier_cheat_army = {
     military_formation_attrition_risk_add = -1       # -1 к риску истощения / -1 to attrition risk
     unit_advancement_speed_mult = 4        # +400% к скорости продвижения / +400% to advancement speed
     unit_army_offense_mult = 3             # +300% к атаке армии / +300% to army offense
+    unit_navy_offense_mult = 3
     country_prestige_from_army_power_projection_mult = -3  # -300% Престиж от проекции силы армии / -300% Prestige from army power projection
     country_prestige_from_navy_power_projection_mult = -3  # -300% Престиж от проекции силы флота / -300% Prestige from navy power projection
     unit_convoy_raiding_mult = 1           # +100% к рейдам на конвои / +100% to convoy raiding
