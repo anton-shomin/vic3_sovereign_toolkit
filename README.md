@@ -1,6 +1,11 @@
+"Deer replacer" folder - there's [gui] folder - copy it to your Victoria 3 installation folder.
+
 Deer icon re
 Also imported very basic mod that changes the error deer in debug mode to a tiny button that activate and deactivates the debug mode
 https://www.nexusmods.com/victoria3/mods/16?tab=description
+
+Instructions:
+Move "Sovereign_Toolkit" folder and "Sovereign_Toolkit.mod" files to your "mod" folder for Victoria 3. Add mod to playset as any other.
 
 ## event cheats.1 - Усилить экономику / Enhance Economy
 
@@ -8,7 +13,7 @@ https://www.nexusmods.com/victoria3/mods/16?tab=description
 - +1005.0% Бонус к строительству от компании / +1005.0% Company construction bonus
 - +5.0 к строительству / +5.0 to construction
 - -300.0 к правительственным расходам / -300.0 to government expenses
-- +50 Бесплатные торговые пути / +50 Free trade routes
+- +500 Бесплатные торговые пути / +500 Free trade routes
 - +75 к распространению технологий / +75 to technology spread
 - +50.0% к эффективности строительства в области / +50.0% to construction efficiency in the state
 - +3.0 к уровню жизни / +3.0 to standard of living
@@ -17,29 +22,57 @@ https://www.nexusmods.com/victoria3/mods/16?tab=description
 - +900.0% к сбору налогов / +900.0% to tax collection
 - +2 к максимальному уровню эффекта масштаба сооружения / +2 to maximum level of building economy of scale effect
 - +25% к миграционной привлекательности / +25% to migration attraction
-- -20.0% Потребление товара / -20.0% Goods consumption
+- -50.0% Потребление товара / -50.0% Goods consumption
 - +500% Товарооборот / +500% Throughput
-- +30% Товарооборот сельскохозяйственных сооружений / +30% Throughput for agriculture buildings
-- +30% Товарооборот ферм / +30% Throughput for farms
-- +30% Товарооборот плантаций / +30% Throughput for plantation buildings
-- +30% Товарооборот рудников / +30% Throughput for mining buildings
-- +30% Товарооборот предприятий обрабатывающей промышленности / +30% Throughput for manufacturing buildings
+- +200% Товарооборот сельскохозяйственных сооружений / +200% Throughput for agriculture buildings
+- +200% Товарооборот ферм / +200% Throughput for farms
+- +200% Товарооборот плантаций / +200% Throughput for plantation buildings
+- +200% Товарооборот рудников / +200% Throughput for mining buildings
+- +200% Товарооборот предприятий обрабатывающей промышленности / +200% Throughput for manufacturing buildings
 - +500% к темпам обучения / +500% to training rate
-- +30.0% Товарооборот сооружений сферы услуг / +30.0% Throughput for service buildings
-- +30.0% Товарооборот ГСМ-добычи / +30.0% Throughput for oil extraction buildings
-- +30.0% Товарооборот лесозаготовительной промышленности / +30.0% Throughput for logging buildings
-- +30.0% Товарооборот рыболовецкой промышленности / +30.0% Throughput for fishing buildings
-- +30.0% Товарооборот китобойной промышленности / +30.0% Throughput for whaling buildings
+- +200% Товарооборот сооружений сферы услуг / +200% Throughput for service buildings
+- +200% Товарооборот ГСМ-добычи / +200% Throughput for oil extraction buildings
+- +200% Товарооборот лесозаготовительной промышленности / +200% Throughput for logging buildings
+- +200% Товарооборот рыболовецкой промышленности / +200% Throughput for fishing buildings
+- +200% Товарооборот китобойной промышленности / +200% Throughput for whaling buildings
+- +999 к еженедельной инновации / +999 weekly innovation
+- +999 к чеканке / +999 minting
+- +5 к ожидаемому уровню жизни низшего сословия / +5 lower strata expected SOL
+- +10 к ожидаемому уровню жизни среднего сословия / +10 middle strata expected SOL
+- +15 к ожидаемому уровню жизни высшего сословия / +15 upper strata expected SOL
+- +50% к вкладу в инвестиционный пул фермеров / +50% farmers investment pool contribution
+- +50% к вкладу в инвестиционный пул лавочников / +50% shopkeepers investment pool contribution
+- +50% к вкладу в инвестиционный пул духовенства / +50% clergymen investment pool contribution
+- +50% к вкладу в инвестиционный пул аристократов / +50% aristocrats investment pool contribution
+- +50% к вкладу в инвестиционный пул капиталистов / +50% capitalists investment pool contribution
+- -99% к стоимости мобилизации / -99% mobilization cost
+- -75% к стоимости военных товаров / -75% military goods cost
+- +300% к конкурентоспособности торговых путей / +300% trade route competitiveness
+- -50% к стоимости торговых путей / -50% trade route cost
 
 ## event cheats.2 - Усилить армию / Enhance Army
 
 - +70% к количеству призываемых батальонов / +70% to conscription rate
-- +1800% к защите армии / +1800% to army defense
-- +300% к защите флота / +300% to navy defense
+- +180000% к защите армии / +180000% to army defense
+- +130000% к защите флота / +130000% to navy defense
 - +100% к урону боевому духу / +100% to morale damage
-- +50% к восстановлению боевого духа / +50% to morale recovery
+- +90% к восстановлению боевого духа / +90% to morale recovery
 - +200% Ежедневный прирост организации / +200% Daily organization gain
 - -1 к риску истощения / -1 to attrition risk
+- +1000 к скорости обучения / +1000 to training rate
+- +400% к скорости продвижения / +400% to advancement speed
+- +300% к атаке армии / +300% to army offense
+- +300% к атаке флота / +300% to navy offense
+- -300% Престиж от проекции силы армии / -300% Prestige from army power projection
+- -300% Престиж от проекции силы флота / -300% Prestige from navy power projection
+- +100% к рейдам на конвои / +100% to convoy raiding
+- +400% к защите конвоев / +400% to convoy defense
+- +100% к перехвату рейдов на конвои / +100% to convoy raiding interception
+- -60% к потреблению припасов / -60% to supply consumption
+- +120% к скорости мобилизации / +120% to mobilization speed
+- +1 к скорости восстановления / +1 to recovery rate
+- +0.5 к коэффициенту убийств / +0.5 to kill rate
+- +25% к скорости передвижения / +25% to movement speed
 
 ## event cheats.3 - Инфраструктура / Infrastructure
 
@@ -57,7 +90,7 @@ https://www.nexusmods.com/victoria3/mods/16?tab=description
 
 ## event cheats.6 - Влияние / Influence
 
-- +300% к количеству влияния / +300% to influence amount
+- +30% к количеству влияния / +30% to influence amount
 
 ## event cheats.7 - Рождаемость / Birth Rate
 
@@ -96,21 +129,21 @@ https://www.nexusmods.com/victoria3/mods/16?tab=description
 
 ## event cheats.10 - Быстрая дипломатия и прочие мелочи / Quick Diplomacy and Other Things
 
-- +20% к престижу / +20% to prestige
 - +150% к скорости улучшения отношений / +150% to improve relations speed
-- +20% к шансу успешного утверждения / +20% to law enactment success chance
+- +40% к шансу успешного утверждения / +40% to law enactment success chance
 
 ## event cheats.11 - Скорость изучения технологий / Technology Research Speed
 
-- +50% к скорости изучения технологий / +50% to technology research speed
+- +10% к скорости изучения технологий / +10% to technology research speed
 
 ## event cheats.12 - Быстрое строительство / Fast Construction
 
-- +100.0% к эффективности строительства в области / +100.0% to construction efficiency in the state
+- +1000000.0% к эффективности строительства в области / +1000000.0% to construction efficiency in the state
 
 ## event cheats.13 - Налоговый бум / Tax Boom
 
 - +50000 к доходу от налогов / +50000 to Tax income
+- +1000000 к доходу от налогов / +1000000 to Tax income
 - +3000% к максимальному золотому запасу / +3000% to maximum gold reserve
 
 ## event cheats.14 - Политическое господство / Political Dominance
@@ -126,13 +159,13 @@ https://www.nexusmods.com/victoria3/mods/16?tab=description
 ## event cheats.16 - Усилитель производства / Production Booster
 #### Military Production Boost - Увеличение военного производства
 
-- Увеличение производства боеприпасов на 100% / Increases ammunition production by 100%
-- Увеличение производства стрелкового оружия на 100% / Increases small arms production by 100%
-- Увеличение производства артиллерии на 100% / Increases artillery production by 100%
-- Увеличение производства танков на 100% / Increases tank production by 100%
-- Увеличение производства аэропланов на 100% / Increases aeroplane production by 100%
-- Увеличение производства мановаров на 100% / Increases manowar production by 100%
-- Увеличение производства броненосцев на 100% / Increases ironclad production by 100%
+- Увеличение производства боеприпасов на 200% / Increases ammunition production by 200%
+- Увеличение производства стрелкового оружия на 200% / Increases small arms production by 200%
+- Увеличение производства артиллерии на 200% / Increases artillery production by 200%
+- Увеличение производства танков на 200% / Increases tank production by 200%
+- Увеличение производства аэропланов на 200% / Increases aeroplane production by 200%
+- Увеличение производства мановаров на 200% / Increases manowar production by 200%
+- Увеличение производства броненосцев на 200% / Increases ironclad production by 200%
 
 #### Staple Production Boost - Увеличение производства базовых товаров
 
