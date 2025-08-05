@@ -17,16 +17,29 @@ modifier_cheat_economy = {
     country_tech_spread_add = 75           # +75 к распространению технологий / +75 to technology spread
     building_goods_input_mult = -0.5       # -20.0% Потребление товаров / -20.0% Goods consumption
     country_expenses_add = -300            # -300.0 к государственным расходам / -300.0 to government expenses
-    building_group_bg_manufacturing_throughput_add = 0.3    # +30% Пропускная способность для производственных зданий / +30% Throughput for manufacturing buildings
-    building_group_bg_service_throughput_add = 0.3          # +30% Пропускная способность для зданий сферы услуг / +30% Throughput for service buildings
-    building_group_bg_agriculture_throughput_add = 0.3      # +30% Пропускная способность для сельскохозяйственных зданий / +30% Throughput for agriculture buildings
-    building_group_bg_plantations_throughput_add = 0.3      # +30% Пропускная способность для плантаций / +30% Throughput for plantation buildings
-    building_group_bg_ranching_throughput_add = 0.3         # +30% Пропускная способность для ранчо / +30% Throughput for ranching buildings
-    building_group_bg_mining_throughput_add = 0.3           # +30% Пропускная способность для шахт / +30% Throughput for mining buildings
-    building_group_bg_logging_throughput_add = 0.3          # +30% Пропускная способность для лесозаготовок / +30% Throughput for logging buildings
-    building_group_bg_fishing_throughput_add = 0.3          # +30% Пропускная способность для рыболовства / +30% Throughput for fishing buildings
-    building_group_bg_whaling_throughput_add = 0.3          # +30% Пропускная способность для китобойного промысла / +30% Throughput for whaling buildings
-    building_group_bg_oil_extraction_throughput_add = 0.3   # +30% Пропускная способность для нефтедобычи / +30% Throughput for oil extraction buildings
+    building_group_bg_manufacturing_throughput_add = 2    # +30% Пропускная способность для производственных зданий / +30% Throughput for manufacturing buildings
+    building_group_bg_service_throughput_add = 2          # +30% Пропускная способность для зданий сферы услуг / +30% Throughput for service buildings
+    building_group_bg_agriculture_throughput_add = 2      # +30% Пропускная способность для сельскохозяйственных зданий / +30% Throughput for agriculture buildings
+    building_group_bg_plantations_throughput_add = 2      # +30% Пропускная способность для плантаций / +30% Throughput for plantation buildings
+    building_group_bg_ranching_throughput_add = 2         # +30% Пропускная способность для ранчо / +30% Throughput for ranching buildings
+    building_group_bg_mining_throughput_add = 2           # +30% Пропускная способность для шахт / +30% Throughput for mining buildings
+    building_group_bg_logging_throughput_add = 2          # +30% Пропускная способность для лесозаготовок / +30% Throughput for logging buildings
+    building_group_bg_fishing_throughput_add = 2          # +30% Пропускная способность для рыболовства / +30% Throughput for fishing buildings
+    building_group_bg_whaling_throughput_add = 2          # +30% Пропускная способность для китобойного промысла / +30% Throughput for whaling buildings
+    building_group_bg_oil_extraction_throughput_add = 2   # +30% Пропускная способность для нефтедобычи / +30% Throughput for oil extraction buildings
+    country_weekly_innovation_add = 999
+    country_minting_add = 999
+    state_lower_strata_expected_sol_add = 5
+    state_middle_strata_expected_sol_add = 10
+    state_upper_strata_expected_sol_add = 15
+    state_farmers_investment_pool_contribution_add = 0.5
+    state_shopkeepers_investment_pool_contribution_add = 0.5
+    state_clergymen_investment_pool_contribution_add = 0.5
+    state_aristocrats_investment_pool_contribution_add = 0.5
+    state_capitalists_investment_pool_contribution_add = 0.5
+    building_mobilization_cost_mult = -0.99   # NOTE: Value changed to be beneficial
+    country_military_goods_cost_mult = -0.75
+
     country_trade_route_competitiveness_mult = 3
     country_trade_route_cost_mult = -0.5
 }
@@ -282,55 +295,15 @@ modifier_convoys = {
   country_trade_route_competitiveness_mult = 3  # +300% к конкурентоспособности торговых маршрутов / +300% to trade route competitiveness
 }
 
-test_modifier = {
-  country_weekly_innovation_add = 999
-  country_minting_add = 999
-  state_lower_strata_expected_sol_add = 5
-	state_middle_strata_expected_sol_add = 10
-	state_upper_strata_expected_sol_add = 15
-	state_expected_sol_from_literacy = 5
-  state_farmers_investment_pool_contribution_add = 0.10
-	state_shopkeepers_investment_pool_contribution_add = 0.20
-	state_clergymen_investment_pool_contribution_add = 0.20
-	state_aristocrats_investment_pool_contribution_add = 0.20
-	state_capitalists_investment_pool_contribution_add = 0.30
-  building_mobilization_cost_mult = 999
-  state_market_access_price_impact = 999
-  country_military_goods_cost_mult = -0.75
-  country_trade_route_quantity_mult = 9
-  tariff_import_add = -0.25
+modifier_test = {
+    # VALID MODIFIERS
+    
+    
+
 }
 
-test_modifier_2 = {
-	# Усиление производства товаров
-country_goods_production_mult = 2.0          # +200% к производству товаров
-
-# Множитель на инвестиционные пуулы всех слоёв населения
-state_farmers_investment_pool_contribution_add = 0.5
-state_shopkeepers_investment_pool_contribution_add = 0.5
-state_clergymen_investment_pool_contribution_add = 0.5
-state_aristocrats_investment_pool_contribution_add = 0.5
-state_capitalists_investment_pool_contribution_add = 0.5
-
-# Торговые тарифы
-tariff_import_mult = -0.9
-tariff_export_mult = -0.9
-
-# Увеличение торговой дальности и скорости
-country_trade_route_range_mult = 2.0           # +100% к дальности торговых путей
-country_trade_speed_mult = 2.0                  # +100% к скорости торговли
-
-# Улучшение производительности предприятий
-factory_efficiency_mult = 2.0                   # +100% к эффективности фабрик
-
-# Увеличение миграционного притока для рабочих и специалистов
-state_migration_pull_mult = 0.5                  # +50% к привлекательности миграции (можно понизить коллапс на рынках труда)
-
-# Увеличение максимального количества объявленных интересов
-country_max_declared_interests_add = 20
-
-# Бонусы для золота
-country_gold_reserve_limit_mult = 50            # +5000% к лимиту золота
-country_gold_production_mult = 5.0               # +400% к производству золота
-
+modifier_test_2 = {
+    # VALID MODIFIERS
+       
+   
 }

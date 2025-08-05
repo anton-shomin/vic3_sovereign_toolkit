@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
   mighty_economy.t: "Economic Miracle"
   mighty_economy.d: "Our economy is ready to make an incredible leap forward. Activate this cheat?"
   mighty_economy.f: "Imagine an economy that works like clockwork, where every citizen thrives, and the state treasury is filled to the brim. Sounds like a dream? Now it can become a reality!"
@@ -119,11 +119,11 @@
   assimilation.1.b: "Close concentration camps"
   conversion.1.b: "Close religious re-education camps"
 
-  test_cheating.t: "Test Cheat"
-  test_cheating.d: "This is a test cheat to check functionality. Activate cheat?"
-  test_cheating.f: "Gnaw-gnaw. Bite-bite. Chomp-chomp. Crunch. The hungry monster ate Otto from the inside. And again became a monster that had no name."
-  test_cheating.1.a: "Activate test cheat"
-  test_cheating.1.b: "Deactivate test cheat"
+  .t: "Test Cheat"
+  .d: "This is a test cheat to check functionality. Activate cheat?"
+  .f: "Gnaw-gnaw. Bite-bite. Chomp-chomp. Crunch. The hungry monster ate Otto from the inside. And again became a monster that had no name."
+  .1.a: "Activate test cheat"
+  .1.b: "Deactivate test cheat"
 
   modifier_cheat_economy: "Economic Miracle"
   modifier_cheat_army: "Strong Army"
@@ -139,7 +139,7 @@
   modifier_cheat_constructionefficiency: "Construction Boom"
   modifier_cheat_goldmaxlimit: "Bottomless Treasury"
   modifier_cheat_goldplus: "Gold Rush"
-  modifier_test_cheating: "Test Cheat"
+  modifier_: "Test Cheat"
   modifier_cheat_political.landowners: "Elite Dominance"
   modifier_cheat_political.devout: "Religious Dominance"
   modifier_cheat_political.armed_forces: "Armed Forces Dominance"
@@ -172,3 +172,13 @@
   modifier_staple_production: "Staple Production Boost"
   modifier_industrial_production: "Industrial Production Boost"
   modifier_luxury_production: "Luxury Production Boost"
+
+  cheat_test.t: "Test Event"
+  cheat_test.d: "This is a test event."
+  cheat_test.f: "A test event appeared."
+  cheat_test.1.a: "Add modifier 1"
+  cheat_test.2.a: "Add modifier 2"
+  cheat_test.1.b: "Remove modifier 1"
+  cheat_test.2.b: "Remove modifier 2"
+  modifier_test: "Test Modifier 1"
+  modifier_test_2: "Test Modifier 2"

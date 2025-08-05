@@ -612,12 +612,36 @@ cheats.9002 = {
     option = {
       name = cheat_test.1.a
       add_modifier = {
-    	  name = test_modifier
+    	  name = modifier_test
     	}
-	  }    
-		option = {
-			name = cheat_test.1.b
-			remove_modifier = test_modifier
-		
+	  }
+
+    option = {
+      name = cheat_test.2.a
+      add_modifier = {
+        name = modifier_test_2
+      } 
     }
+
+    option = {
+			name = cheat_test.1.b
+			remove_modifier = modifier_test
+		}
+    
+    option = {
+			name = cheat_test.2.b
+			remove_modifier = modifier_test_2
+		}
+  }
+
+  cheats.666 = {
+    type = country_event
+		placement = root
+
+		title = cheat_666_test.t
+		desc = cheat_666_test.d
+		flavor = cheat_666_test.f
+
+    
+
   }
