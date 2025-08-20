@@ -69,7 +69,7 @@ modifier_cheat_army = {
     unit_convoy_raiding_mult = 1           # +100% к рейдам на конвои / +100% to convoy raiding
     unit_convoy_defense_mult = 4           # +400% к защите конвоев / +400% to convoy defense
     unit_convoy_raiding_interception_mult = 1  # +100% к перехвату рейдов на конвои / +100% to convoy raiding interception
-    unit_supply_consumption_mult = -0.6    # -60% к потреблению припасов / -60% to supply consumption
+    unit_supply_consumption_mult = -0.95    # -60% к потреблению припасов / -60% to supply consumption
     military_formation_mobilization_speed_mult = 1.2  # +120% к скорости мобилизации / +120% to mobilization speed
     unit_recovery_rate_add = 1
     unit_kill_rate_add = 0.5
@@ -310,4 +310,22 @@ modifier_test = {
 }
 modifier_test_2 = {
     # VALID MODIFIERS
+    unit_blockade_mult	= 999
+    unit_combat_unit_type_cannon_artillery_offense_mult	= 999
+    unit_combat_unit_type_heavy_tank_offense_mult = 999
+    unit_combat_unit_type_carrier_offense_mult = 999
+    unit_combat_unit_type_mechanized_infantry_offense_add = 999
+    unit_combat_unit_type_mobile_artillery_offense_mult = 999
+    unit_combat_unit_type_siege_artillery_offense_mult = 999
+    unit_combat_unit_type_shrapnel_artillery_offense_mult = 999
+    unit_devastation_mult = 999
+    unit_morale_loss_mult = -0.95
+    unit_occupation_mult = 2
+    unit_provinces_captured_mult = 3
+    battle_casualties_mult = -0.9
+    battle_combat_width_mult = 2
+    battle_defense_owned_province_mult = 16
+    battle_offense_owned_province_mult	= 1900
+    battle_defense_mult = 99
+    battle_offense_mult	= 99
 }
