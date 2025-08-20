@@ -306,18 +306,18 @@ modifier_convoys = {
 
 modifier_test = {
     # VALID MODIFIERS (all duplicates from previous modifiers removed)
+  unit_combat_unit_type_cannon_artillery_offense_mult	= 999
+  unit_combat_unit_type_heavy_tank_offense_mult = 999
+  unit_combat_unit_type_carrier_offense_mult = 999
+  unit_combat_unit_type_mechanized_infantry_offense_add = 999
+  unit_combat_unit_type_mobile_artillery_offense_mult = 999
+  unit_combat_unit_type_siege_artillery_offense_mult = 999
+  unit_combat_unit_type_shrapnel_artillery_offense_mult = 999
 
 }
 modifier_test_2 = {
     # VALID MODIFIERS
-    unit_blockade_mult	= 999
-    unit_combat_unit_type_cannon_artillery_offense_mult	= 999
-    unit_combat_unit_type_heavy_tank_offense_mult = 999
-    unit_combat_unit_type_carrier_offense_mult = 999
-    unit_combat_unit_type_mechanized_infantry_offense_add = 999
-    unit_combat_unit_type_mobile_artillery_offense_mult = 999
-    unit_combat_unit_type_siege_artillery_offense_mult = 999
-    unit_combat_unit_type_shrapnel_artillery_offense_mult = 999
+    unit_blockade_mult	= 999    
     unit_devastation_mult = 999
     unit_morale_loss_mult = -0.95
     unit_occupation_mult = 2
