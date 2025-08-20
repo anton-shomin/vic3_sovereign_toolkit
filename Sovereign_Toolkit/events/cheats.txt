@@ -164,8 +164,19 @@
 		}
 
 		option = {
+			name = birth.2.a
+			add_modifier = {
+				name = modifier_cheat_birth_max
+			}
+		}
+
+		option = {
 			name = birth.1.b
 			remove_modifier = modifier_cheat_birth_plus
+		}
+		option = {
+			name = birth.2.b
+			remove_modifier = modifier_cheat_birth_max
 		}
 	}
 

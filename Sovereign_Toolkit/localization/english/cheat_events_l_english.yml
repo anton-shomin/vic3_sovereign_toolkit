@@ -51,6 +51,8 @@ l_english:
  birth.f: "Children's laughter on the streets, full schools, and a growing nation - all this can become a reality thanks to an incredible increase in the birth rate."
  birth.1.a: "Make women give birth"
  birth.1.b: "Make women stop giving birth"
+ birth.2.a: "Make women give birth more"
+ birth.2.b: "Make women stop giving birth"
 
  maneuvers.t: "International Ambitions"
  maneuvers.d: "Our nation aspires to a more significant role on the world stage. Activate this cheat?"
