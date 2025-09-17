@@ -1,235 +1,236 @@
+###
 "Deer replacer" folder - there's [gui] folder - copy it to your Victoria 3 installation folder.
 
 Deer icon re
 Also imported very basic mod that changes the error deer in debug mode to a tiny button that activate and deactivates the debug mode
-https://www.nexusmods.com/victoria3/mods/16?tab=description
+[https://www.nexusmods.com/victoria3/mods/16?tab=description](https://www.nexusmods.com/victoria3/mods/16?tab=description)
 
 Instructions:
 Move "Sovereign_Toolkit" folder and "Sovereign_Toolkit.mod" files to your "mod" folder for Victoria 3. Add mod to playset as any other.
 
-## event cheats.1 - Усилить экономику / Enhance Economy
+## event cheats.1 - Enhance Economy
 
-- +1005.0% Бонус к товарообороту от компании / +1005.0% Company throughput bonus
-- +1005.0% Бонус к строительству от компании / +1005.0% Company construction bonus
-- +5.0 к строительству / +5.0 to construction
-- -300.0 к правительственным расходам / -300.0 to government expenses
-- +500 Бесплатные торговые пути / +500 Free trade routes
-- +75 к распространению технологий / +75 to technology spread
-- +50.0% к эффективности строительства в области / +50.0% to construction efficiency in the state
-- +3.0 к уровню жизни / +3.0 to standard of living
-- +999.0 к потенциалу налогообложения / +999.0 to tax capacity
-- -100.0% к налоговым потерям / -100.0% to tax waste
-- +900.0% к сбору налогов / +900.0% to tax collection
-- +2 к максимальному уровню эффекта масштаба сооружения / +2 to maximum level of building economy of scale effect
-- +25% к миграционной привлекательности / +25% to migration attraction
-- -50.0% Потребление товара / -50.0% Goods consumption
-- +500% Товарооборот / +500% Throughput
-- +200% Товарооборот сельскохозяйственных сооружений / +200% Throughput for agriculture buildings
-- +200% Товарооборот ферм / +200% Throughput for farms
-- +200% Товарооборот плантаций / +200% Throughput for plantation buildings
-- +200% Товарооборот рудников / +200% Throughput for mining buildings
-- +200% Товарооборот предприятий обрабатывающей промышленности / +200% Throughput for manufacturing buildings
-- +500% к темпам обучения / +500% to training rate
-- +200% Товарооборот сооружений сферы услуг / +200% Throughput for service buildings
-- +200% Товарооборот ГСМ-добычи / +200% Throughput for oil extraction buildings
-- +200% Товарооборот лесозаготовительной промышленности / +200% Throughput for logging buildings
-- +200% Товарооборот рыболовецкой промышленности / +200% Throughput for fishing buildings
-- +200% Товарооборот китобойной промышленности / +200% Throughput for whaling buildings
-- +999 к еженедельной инновации / +999 weekly innovation
-- +999 к чеканке / +999 minting
-- +5 к ожидаемому уровню жизни низшего сословия / +5 lower strata expected SOL
-- +10 к ожидаемому уровню жизни среднего сословия / +10 middle strata expected SOL
-- +15 к ожидаемому уровню жизни высшего сословия / +15 upper strata expected SOL
-- +50% к вкладу в инвестиционный пул фермеров / +50% farmers investment pool contribution
-- +50% к вкладу в инвестиционный пул лавочников / +50% shopkeepers investment pool contribution
-- +50% к вкладу в инвестиционный пул духовенства / +50% clergymen investment pool contribution
-- +50% к вкладу в инвестиционный пул аристократов / +50% aristocrats investment pool contribution
-- +50% к вкладу в инвестиционный пул капиталистов / +50% capitalists investment pool contribution
-- -99% к стоимости мобилизации / -99% mobilization cost
-- -75% к стоимости военных товаров / -75% military goods cost
-- +300% к конкурентоспособности торговых путей / +300% trade route competitiveness
-- -50% к стоимости торговых путей / -50% trade route cost
+- +1005.0% Company throughput bonus
+- +1005.0% Company construction bonus
+- +5.0 to construction
+- -300.0 to government expenses
+- +500 Free trade routes
+- +75 to technology spread
+- +50.0% to construction efficiency in the state
+- +3.0 to standard of living
+- +999.0 to tax capacity
+- -100.0% to tax waste
+- +900.0% to tax collection
+- +2 to maximum level of building economy of scale effect
+- +25% to migration attraction
+- -50.0% Goods consumption
+- +500% Throughput
+- +200% Throughput for agriculture buildings
+- +200% Throughput for farms
+- +200% Throughput for plantation buildings
+- +200% Throughput for mining buildings
+- +200% Throughput for manufacturing buildings
+- +500% to training rate
+- +200% Throughput for service buildings
+- +200% Throughput for oil extraction buildings
+- +200% Throughput for logging buildings
+- +200% Throughput for fishing buildings
+- +200% Throughput for whaling buildings
+- +999 weekly innovation
+- +999 minting
+- +5 lower strata expected SOL
+- +10 middle strata expected SOL
+- +15 upper strata expected SOL
+- +50% farmers investment pool contribution
+- +50% shopkeepers investment pool contribution
+- +50% clergymen investment pool contribution
+- +50% aristocrats investment pool contribution
+- +50% capitalists investment pool contribution
+- -99% mobilization cost
+- -75% military goods cost
+- +300% trade route competitiveness
+- -50% trade route cost
 
-## event cheats.2 - Усилить армию / Enhance Army
+## event cheats.2 - Enhance Army
 
-- +70% к количеству призываемых батальонов / +70% to conscription rate
-- +180000% к защите армии / +180000% to army defense
-- +130000% к защите флота / +130000% to navy defense
-- +100% к урону боевому духу / +100% to morale damage
-- +90% к восстановлению боевого духа / +90% to morale recovery
-- +200% Ежедневный прирост организации / +200% Daily organization gain
-- -1 к риску истощения / -1 to attrition risk
-- +1000 к скорости обучения / +1000 to training rate
-- +400% к скорости продвижения / +400% to advancement speed
-- +300% к атаке армии / +300% to army offense
-- +300% к атаке флота / +300% to navy offense
-- -300% Престиж от проекции силы армии / -300% Prestige from army power projection
-- -300% Престиж от проекции силы флота / -300% Prestige from navy power projection
-- +100% к рейдам на конвои / +100% to convoy raiding
-- +400% к защите конвоев / +400% to convoy defense
-- +100% к перехвату рейдов на конвои / +100% to convoy raiding interception
-- -60% к потреблению припасов / -60% to supply consumption
-- +120% к скорости мобилизации / +120% to mobilization speed
-- +1 к скорости восстановления / +1 to recovery rate
-- +0.5 к коэффициенту убийств / +0.5 to kill rate
-- +25% к скорости передвижения / +25% to movement speed
+- +70% to conscription rate
+- +180000% to army defense
+- +130000% to navy defense
+- +100% to morale damage
+- +90% to morale recovery
+- +200% Daily organization gain
+- -1 to attrition risk
+- +1000 to training rate
+- +400% to advancement speed
+- +300% to army offense
+- +300% to navy offense
+- -300% Prestige from army power projection
+- -300% Prestige from navy power projection
+- +100% to convoy raiding
+- +400% to convoy defense
+- +100% to convoy raiding interception
+- -60% to supply consumption
+- +120% to mobilization speed
+- +1 to recovery rate
+- +0.5 to kill rate
+- +25% to movement speed
 
-## event cheats.3 - Инфраструктура / Infrastructure
+## event cheats.3 - Infrastructure
 
-- +999.0 к потенциалу налогообложения / +999.0 to tax capacity
-- +40.0 к инфраструктуре / +40.0 to infrastructure
+- +999.0 to tax capacity
+- +40.0 to infrastructure
 
-## event cheats.4 - Бюрократия / Bureaucracy
+## event cheats.4 - Bureaucracy
 
-- +300% к количеству бюрократии / +300% to bureaucracy amount
-- +100 к количеству бюрократии / +100 to bureaucracy amount
+- +300% to bureaucracy amount
+- +100 to bureaucracy amount
 
-## event cheats.5 - Авторитет / Authority
+## event cheats.5 - Authority
 
-- +300% к количеству авторитета / +300% to authority amount
+- +300% to authority amount
 
-## event cheats.6 - Влияние / Influence
+## event cheats.6 - Influence
 
-- +30% к количеству влияния / +30% to influence amount
+- +30% to influence amount
 
-## event cheats.7 - Рождаемость / Birth Rate
+## event cheats.7 - Birth Rate
 
-- +100.0% к рождаемости общепризнанного населения / +100.0% to birth rate of accepted population
+- +100.0% to birth rate of accepted population
 
-## event cheats.8 - Дипломатические манёвры / Diplomatic Maneuvers
+## event cheats.8 - Diplomatic Maneuvers
 
-- +500 к количеству манёвров на дипломатическую игру / +500 to diplomatic play maneuvers
-- -100% к получению дурной славы / -100% to infamy generation
-- +300% к снижению дурной славы / +300% to infamy decay
+- +500 to diplomatic play maneuvers
+- -100% to infamy generation
+- +300% to infamy decay
 
-## event cheats.9 - Смертность / Mortality
+## event cheats.9 - Mortality
 
-- -20% к смертности среди рабочих занятых на рудниках / -20% to mortality for mining laborers
-- -20% к смертности среди механиков занятых на рудниках / -20% to mortality for mining machinists
-- -20% смертности среди инженеров занятых на рудниках / -20% to mortality for mining engineers
-- -20% к смертности среди рабочих лесозаготовительных сооружений / -20% to mortality for logging laborers
-- -20% к смертности среди механиков лесозаготовительных сооружений / -20% to mortality for logging machinists
-- -20% смертности среди инженеров лесозаготовительных сооружений / -20% to mortality for logging engineers
-- -20% к смертности среди рабочих занятых в лёгкой промышленности / -20% to mortality for light industry laborers
-- -20% смертности среди механиков занятых в лёгкой промышленности / -20% to mortality for light industry machinists
-- -20% смертности среди инженеров занятых в тяжёлой промышленности / -20% to mortality for heavy industry engineers
-- -20% к смертности среди рабочих занятых в тяжёлой промышленности / -20% to mortality for heavy industry laborers
-- -50% смертности среди механиков занятых в тяжёлой промышленности / -50% to mortality for heavy industry machinists
-- -20% смертности среди рабочих на китобойных станциях / -20% to mortality for whaling laborers
-- -50% смертности среди механиков на китобойных станциях / -50% to mortality for whaling machinists
-- -20% смертности среди инженеров на рыболовных верфях / -20% to mortality for fishing engineers
-- -50% смертности среди рабочих на рыболовных верфях / -50% to mortality for fishing laborers
-- -20% смертности среди механиков на рыболовных верфях / -20% to mortality for fishing machinists
-- -20% смертности среди инженеров нефтедобывающих сооружений / -20% to mortality for oil extraction engineers
-- -20% смертности среди рабочих нефтедобывающих сооружений / -20% to mortality for oil extraction laborers
-- -25% смертности среди механиков нефтедобывающих сооружений / -25% to mortality for oil extraction machinists
-- -20% смертности среди инженеров на объектах инфраструктуры / -20% to mortality for infrastructure engineers
-- -20% смертности среди рабочих на объектах инфраструктуры / -20% to mortality for infrastructure laborers
-- -50% смертности среди механиков на объектах инфраструктуры / -50% to mortality for infrastructure machinists
+- -20% to mortality for mining laborers
+- -20% to mortality for mining machinists
+- -20% to mortality for mining engineers
+- -20% to mortality for logging laborers
+- -20% to mortality for logging machinists
+- -20% to mortality for logging engineers
+- -20% to mortality for light industry laborers
+- -20% to mortality for light industry machinists
+- -20% to mortality for heavy industry engineers
+- -20% to mortality for heavy industry laborers
+- -50% to mortality for heavy industry machinists
+- -20% to mortality for whaling laborers
+- -50% to mortality for whaling machinists
+- -20% to mortality for fishing engineers
+- -50% to mortality for fishing laborers
+- -20% to mortality for fishing machinists
+- -20% to mortality for oil extraction engineers
+- -20% to mortality for oil extraction laborers
+- -25% to mortality for oil extraction machinists
+- -20% to mortality for infrastructure engineers
+- -20% to mortality for infrastructure laborers
+- -50% to mortality for infrastructure machinists
 
-## event cheats.10 - Быстрая дипломатия и прочие мелочи / Quick Diplomacy and Other Things
+## event cheats.10 - Quick Diplomacy and Other Things
 
-- +150% к скорости улучшения отношений / +150% to improve relations speed
-- +40% к шансу успешного утверждения / +40% to law enactment success chance
+- +150% to improve relations speed
+- +40% to law enactment success chance
 
-## event cheats.11 - Скорость изучения технологий / Technology Research Speed
+## event cheats.11 - Technology Research Speed
 
-- +10% к скорости изучения технологий / +10% to technology research speed
+- +10% to technology research speed
 
-## event cheats.12 - Быстрое строительство / Fast Construction
+## event cheats.12 - Fast Construction
 
-- +1000000.0% к эффективности строительства в области / +1000000.0% to construction efficiency in the state
+- +1000000.0% to construction efficiency in the state
 
-## event cheats.13 - Налоговый бум / Tax Boom
+## event cheats.13 - Tax Boom
 
-- +50000 к доходу от налогов / +50000 to Tax income
-- +1000000 к доходу от налогов / +1000000 to Tax income
-- +3000% к максимальному золотому запасу / +3000% to maximum gold reserve
+- +50000 to Tax income
+- +1000000 to Tax income
+- +3000% to maximum gold reserve
 
-## event cheats.14 - Политическое господство / Political Dominance
+## event cheats.14 - Political Dominance
 
-- +8 к одобрению заинтересованных групп, которых вы выберете / +8 to approval of interest groups you choose
-- +200% к привлекательности заинтересованных групп для населения, которых вы выберете / +200% to population attraction for interest groups you choose
+- +8 to approval of interest groups you choose
+- +200% to population attraction for interest groups you choose
 
-## event cheats.15 - Ассимиляция и обращение / Assimilation and Conversion
+## event cheats.15 - Assimilation and Conversion
 
-- +3500% к ассимиляции / +3500% to assimilation
-- +3500% к обращению / +3500% to conversion
+- +3500% to assimilation
+- +3500% to conversion
 
-## event cheats.16 - Усилитель производства / Production Booster
-#### Military Production Boost - Увеличение военного производства
+## event cheats.16 - Production Booster
+#### Military Production Boost
 
-- Увеличение производства боеприпасов на 200% / Increases ammunition production by 200%
-- Увеличение производства стрелкового оружия на 200% / Increases small arms production by 200%
-- Увеличение производства артиллерии на 200% / Increases artillery production by 200%
-- Увеличение производства танков на 200% / Increases tank production by 200%
-- Увеличение производства аэропланов на 200% / Increases aeroplane production by 200%
-- Увеличение производства мановаров на 200% / Increases manowar production by 200%
-- Увеличение производства броненосцев на 200% / Increases ironclad production by 200%
+- Increases ammunition production by 200%
+- Increases small arms production by 200%
+- Increases artillery production by 200%
+- Increases tank production by 200%
+- Increases aeroplane production by 200%
+- Increases manowar production by 200%
+- Increases ironclad production by 200%
 
-#### Staple Production Boost - Увеличение производства базовых товаров
+#### Staple Production Boost
 
-- Увеличение производства ткани на 100% / Increases fabric production by 100%
-- Увеличение производства электричества на 100% / Increases electricity production by 100%
-- Увеличение производительности хлопковых плантаций на 150% / Increases cotton plantation throughput by 150%
-- Увеличение шанса открытия ресурсов на 150% / Increases resource discovery chance by 150%
-- Увеличение пропускной способности строительного сектора на 150% / Increases construction sector throughput by 150%
-- Добавляет 10 к максимуму объявленных интересов / Adds 10 to maximum declared interests
-- Добавляет 25 к максимальному уровню эффекта масштаба / Adds 25 to economy of scale level cap
-- Добавляет 100 к производству зерна / Adds 100 to grain production
-- Добавляет 100 к производству рыбы / Adds 100 to fish production
-- Добавляет 100 к производству древесины / Adds 100 to wood production
-- Добавляет 100 к производству бакалеи / Adds 100 to groceries production
-- Добавляет 100 к производству одежды / Adds 100 to clothes production
-- Добавляет 100 к производству мебели / Adds 100 to furniture production
-- Добавляет 100 к производству бумаги / Adds 100 to paper production
-- Добавляет 100 к производству услуг / Adds 100 to services production
-- Добавляет 100 к производству транспорта / Adds 100 to transportation production
+- Increases fabric production by 100%
+- Increases electricity production by 100%
+- Increases cotton plantation throughput by 150%
+- Increases resource discovery chance by 150%
+- Increases construction sector throughput by 150%
+- Adds 10 to maximum declared interests
+- Adds 25 to economy of scale level cap
+- Adds 100 to grain production
+- Adds 100 to fish production
+- Adds 100 to wood production
+- Adds 100 to groceries production
+- Adds 100 to clothes production
+- Adds 100 to furniture production
+- Adds 100 to paper production
+- Adds 100 to services production
+- Adds 100 to transportation production
 
-#### Industrial Production Boost - Увеличение промышленного производства
+#### Industrial Production Boost
 
-- Увеличение производства клиперов на 100% / Increases clipper production by 100%
-- Увеличение производства пароходов на 100% / Increases steamer production by 100%
-- Увеличение производства шелка на 100% / Increases silk production by 100%
-- Увеличение производства красителей на 100% / Increases dye production by 100%
-- Увеличение производства серы на 100% / Increases sulfur production by 100%
-- Увеличение производства угля на 100% / Increases coal production by 100%
-- Увеличение производства железа на 100% / Increases iron production by 100%
-- Увеличение производства свинца на 100% / Increases lead production by 100%
-- Увеличение производства твердой древесины на 100% / Increases hardwood production by 100%
-- Увеличение производства каучука на 100% / Increases rubber production by 100%
-- Увеличение производства нефти на 100% / Increases oil production by 100%
-- Увеличение производства двигателей на 100% / Increases engine production by 100%
-- Увеличение производства стали на 100% / Increases steel production by 100%
-- Увеличение производства стекла на 100% / Increases glass production by 100%
-- Увеличение производства удобрений на 100% / Increases fertilizer production by 100%
-- Увеличение производства инструментов на 100% / Increases tools production by 100%
-- Увеличение производства взрывчатки на 100% / Increases explosives production by 100%
+- Increases clipper production by 100%
+- Increases steamer production by 100%
+- Increases silk production by 100%
+- Increases dye production by 100%
+- Increases sulfur production by 100%
+- Increases coal production by 100%
+- Increases iron production by 100%
+- Increases lead production by 100%
+- Increases hardwood production by 100%
+- Increases rubber production by 100%
+- Increases oil production by 100%
+- Increases engine production by 100%
+- Increases steel production by 100%
+- Increases glass production by 100%
+- Increases fertilizer production by 100%
+- Increases tools production by 100%
+- Increases explosives production by 100%
 
-#### Luxury Production Boost - Увеличение производства предметов роскоши
+#### Luxury Production Boost
 
-- Увеличение производства фарфора на 100% / Increases porcelain production by 100%
-- Увеличение производства мяса на 100% / Increases meat production by 100%
-- Увеличение производства фруктов на 100% / Increases fruit production by 100%
-- Увеличение производства ликера на 100% / Increases liquor production by 100%
-- Увеличение производства вина на 100% / Increases wine production by 100%
-- Увеличение производства чая на 100% / Increases tea production by 100%
-- Увеличение производства кофе на 100% / Increases coffee production by 100%
-- Увеличение производства сахара на 100% / Increases sugar production by 100%
-- Увеличение производства табака на 100% / Increases tobacco production by 100%
-- Увеличение производства опиума на 100% / Increases opium production by 100%
-- Увеличение производства автомобилей на 100% / Increases automobile production by 100%
-- Увеличение производства телефонов на 100% / Increases telephone production by 100%
-- Увеличение производства радио на 100% / Increases radio production by 100%
-- Увеличение производства элитной одежды на 100% / Increases luxury clothes production by 100%
-- Увеличение производства элитной мебели на 100% / Increases luxury furniture production by 100%
-- Увеличение производства золота на 100% / Increases gold production by 100%
-- Увеличение производства предметов искусства на 100% / Increases fine art production by 100%
+- Increases porcelain production by 100%
+- Increases meat production by 100%
+- Increases fruit production by 100%
+- Increases liquor production by 100%
+- Increases wine production by 100%
+- Increases tea production by 100%
+- Increases coffee production by 100%
+- Increases sugar production by 100%
+- Increases tobacco production by 100%
+- Increases opium production by 100%
+- Increases automobile production by 100%
+- Increases telephone production by 100%
+- Increases radio production by 100%
+- Increases luxury clothes production by 100%
+- Increases luxury furniture production by 100%
+- Increases gold production by 100%
+- Increases fine art production by 100%
 
-#### Convoy System Boost - Улучшение конвойной системы
+#### Convoy System Boost
 
-- Добавляет 1 к вкладу конвоев владельцу рынка / Adds 1 to convoy contribution to market owner
-- Уменьшает потребность юнитов в конвоях на 50% / Reduces unit convoy requirements by 50%
-- Уменьшает стоимость торговых путей на 50% / Reduces trade route cost by 50%
-- Увеличивает вместимость конвоев на 100% / Increases convoy capacity by 100%
-- Увеличивает конкурентоспособность торговых путей на 300% / Increases trade route competitiveness by 300%
+- Adds 1 to convoy contribution to market owner
+- Reduces unit convoy requirements by 50%
+- Reduces trade route cost by 50%
+- Increases convoy capacity by 100%
+- Increases trade route competitiveness by 300%
