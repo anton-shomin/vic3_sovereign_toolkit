@@ -1,0 +1,121 @@
+namespace = cheat_hub
+
+# ────────────────────────────────────────────────
+# HUB 1 — Economy, Military & Population
+# Covers: cheats.1-8
+# ────────────────────────────────────────────────
+cheat_hub.1 = {
+	type = country_event
+	placement = root
+
+	title = cheat_hub.1.t
+	desc  = cheat_hub.1.d
+	flavor = cheat_hub.1.f
+	event_image = {
+		texture = "gfx/event_pictures/cheat_1.dds"
+	}
+
+	option = {
+		name = cheat_hub.btn.economy
+		trigger_event = { id = cheats.1 popup = yes }
+	}
+
+	option = {
+		name = cheat_hub.btn.army
+		trigger_event = { id = cheats.2 popup = yes }
+	}
+
+	option = {
+		name = cheat_hub.btn.infrastructure
+		trigger_event = { id = cheats.3 popup = yes }
+	}
+
+	option = {
+		name = cheat_hub.btn.bureaucracy
+		trigger_event = { id = cheats.4 popup = yes }
+	}
+
+	option = {
+		name = cheat_hub.btn.authority
+		trigger_event = { id = cheats.5 popup = yes }
+	}
+
+	option = {
+		name = cheat_hub.btn.influence
+		trigger_event = { id = cheats.6 popup = yes }
+	}
+
+	option = {
+		name = cheat_hub.btn.birth
+		trigger_event = { id = cheats.7 popup = yes }
+	}
+
+	option = {
+		name = cheat_hub.btn.maneuvers
+		trigger_event = { id = cheats.8 popup = yes }
+	}
+
+	option = {
+		name = cheat_hub.btn.close
+	}
+}
+
+# ────────────────────────────────────────────────
+# HUB 2 — Society, Diplomacy & Science
+# Covers: cheats.9-16
+# ────────────────────────────────────────────────
+cheat_hub.2 = {
+	type = country_event
+	placement = root
+
+	title = cheat_hub.2.t
+	desc  = cheat_hub.2.d
+	flavor = cheat_hub.2.f
+	event_image = {
+		texture = "gfx/event_pictures/cheat_9001.dds"
+	}
+
+	option = {
+		name = cheat_hub.btn.mortality
+		trigger_event = { id = cheats.9 popup = yes }
+	}
+
+	option = {
+		name = cheat_hub.btn.relations
+		trigger_event = { id = cheats.10 popup = yes }
+	}
+
+	option = {
+		name = cheat_hub.btn.tech
+		trigger_event = { id = cheats.11 popup = yes }
+	}
+
+	option = {
+		name = cheat_hub.btn.construction
+		trigger_event = { id = cheats.12 popup = yes }
+	}
+
+	option = {
+		name = cheat_hub.btn.gold
+		trigger_event = { id = cheats.13 popup = yes }
+	}
+
+	option = {
+		name = cheat_hub.btn.political
+		trigger_event = { id = cheats.14 popup = yes }
+	}
+
+	option = {
+		name = cheat_hub.btn.assimilation
+		trigger_event = { id = cheats.15 popup = yes }
+	}
+
+	option = {
+		name = cheat_hub.btn.production
+		trigger_event = { id = cheats.16 popup = yes }
+	}
+
+	option = {
+		name = cheat_hub.btn.close
+	}
+}

@@ -1,0 +1,39 @@
+l_russian:
+ # ── Decision 1 ──────────────────────────────────
+ st_cheat_hub_1: "⚔ Sovereign Toolkit I"
+ st_cheat_hub_1_desc: "Открыть меню читов: Экономика, Армия и Население."
+ st_cheat_hub_1_tooltip: "Открывает Sovereign Toolkit Хаб I: Экономика, Армия и Население."
+
+ # ── Decision 2 ──────────────────────────────────
+ st_cheat_hub_2: "🏛 Sovereign Toolkit II"
+ st_cheat_hub_2_desc: "Открыть меню читов: Общество, Дипломатия и Наука."
+ st_cheat_hub_2_tooltip: "Открывает Sovereign Toolkit Хаб II: Общество, Дипломатия и Наука."
+
+ # ── Hub 1 event ─────────────────────────────────
+ cheat_hub.1.t: "Sovereign Toolkit — Экономика, Армия и Население"
+ cheat_hub.1.d: "Выберите модуль для активации или деактивации."
+ cheat_hub.1.f: "С великой силой не приходит ровным счётом никакой ответственности."
+
+ # ── Hub 2 event ─────────────────────────────────
+ cheat_hub.2.t: "Sovereign Toolkit — Общество, Дипломатия и Наука"
+ cheat_hub.2.d: "Выберите модуль для активации или деактивации."
+ cheat_hub.2.f: "Перо сильнее меча. Но читы сильнее обоих."
+
+ # ── Shared buttons ──────────────────────────────
+ cheat_hub.btn.economy: "💰 Экономическое чудо"
+ cheat_hub.btn.army: "⚔ Непобедимая армия"
+ cheat_hub.btn.infrastructure: "🏗 Архитектурный триумф"
+ cheat_hub.btn.bureaucracy: "📋 Эффективная бюрократия"
+ cheat_hub.btn.authority: "👑 Абсолютная власть"
+ cheat_hub.btn.influence: "🌍 Глобальное влияние"
+ cheat_hub.btn.birth: "👶 Демографический взрыв"
+ cheat_hub.btn.maneuvers: "🤝 Амбиции и репутация"
+ cheat_hub.btn.mortality: "💀 Победа над смертью"
+ cheat_hub.btn.relations: "🕊 Престижная дипломатия"
+ cheat_hub.btn.tech: "🔬 Научный прорыв"
+ cheat_hub.btn.construction: "🏛 Строительный бум"
+ cheat_hub.btn.gold: "💎 Налоговый бум"
+ cheat_hub.btn.political: "⚖ Политическое доминирование"
+ cheat_hub.btn.assimilation: "🗺 Культурная очистка"
+ cheat_hub.btn.production: "⚙ Производственный бустер"
+ cheat_hub.btn.close: "Закрыть"

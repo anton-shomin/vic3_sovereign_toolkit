@@ -1,0 +1,49 @@
+# ────────────────────────────────────────────────
+# DECISION 1 — Economy, Military & Population
+# ────────────────────────────────────────────────
+st_cheat_hub_1 = {
+
+	is_shown = {
+		is_ai = no
+	}
+
+	possible = {
+		always = yes
+	}
+
+	when_taken = {
+		trigger_event = {
+			id = cheat_hub.1
+			popup = yes
+		}
+	}
+
+	ai_chance = {
+		factor = 0
+	}
+}
+
+# ────────────────────────────────────────────────
+# DECISION 2 — Society, Diplomacy & Science
+# ────────────────────────────────────────────────
+st_cheat_hub_2 = {
+
+	is_shown = {
+		is_ai = no
+	}
+
+	possible = {
+		always = yes
+	}
+
+	when_taken = {
+		trigger_event = {
+			id = cheat_hub.2
+			popup = yes
+		}
+	}
+
+	ai_chance = {
+		factor = 0
+	}
+}

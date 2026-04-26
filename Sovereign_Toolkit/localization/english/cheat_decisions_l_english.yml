@@ -1,0 +1,39 @@
+l_english:
+ # ── Decision 1 ──────────────────────────────────
+ st_cheat_hub_1: "⚔ Sovereign Toolkit I"
+ st_cheat_hub_1_desc: "Open the cheat menu for Economy, Military & Population."
+ st_cheat_hub_1_tooltip: "Opens Sovereign Toolkit Hub I: Economy, Military & Population."
+
+ # ── Decision 2 ──────────────────────────────────
+ st_cheat_hub_2: "🏛 Sovereign Toolkit II"
+ st_cheat_hub_2_desc: "Open the cheat menu for Society, Diplomacy & Science."
+ st_cheat_hub_2_tooltip: "Opens Sovereign Toolkit Hub II: Society, Diplomacy & Science."
+
+ # ── Hub 1 event ─────────────────────────────────
+ cheat_hub.1.t: "Sovereign Toolkit — Economy, Military & Population"
+ cheat_hub.1.d: "Select a cheat module to activate or deactivate."
+ cheat_hub.1.f: "With great power comes absolutely no responsibility."
+
+ # ── Hub 2 event ─────────────────────────────────
+ cheat_hub.2.t: "Sovereign Toolkit — Society, Diplomacy & Science"
+ cheat_hub.2.d: "Select a cheat module to activate or deactivate."
+ cheat_hub.2.f: "The pen is mightier than the sword. But cheats are mightier than both."
+
+ # ── Shared buttons ──────────────────────────────
+ cheat_hub.btn.economy: "💰 Economic Miracle"
+ cheat_hub.btn.army: "⚔ Invincible Army"
+ cheat_hub.btn.infrastructure: "🏗 Architectural Triumph"
+ cheat_hub.btn.bureaucracy: "📋 Efficient Bureaucracy"
+ cheat_hub.btn.authority: "👑 Absolute Power"
+ cheat_hub.btn.influence: "🌍 Global Influence"
+ cheat_hub.btn.birth: "👶 Population Boom"
+ cheat_hub.btn.maneuvers: "🤝 International Ambitions & Infamy"
+ cheat_hub.btn.mortality: "💀 Defeat Death"
+ cheat_hub.btn.relations: "🕊 Prestigious Diplomacy"
+ cheat_hub.btn.tech: "🔬 Scientific Breakthrough"
+ cheat_hub.btn.construction: "🏛 Construction Boom"
+ cheat_hub.btn.gold: "💎 Tax Boom"
+ cheat_hub.btn.political: "⚖ Political Dominance"
+ cheat_hub.btn.assimilation: "🗺 Cultural Purification"
+ cheat_hub.btn.production: "⚙ Production Booster"
+ cheat_hub.btn.close: "Close"
