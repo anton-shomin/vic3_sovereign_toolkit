@@ -1,4 +1,4 @@
-namespace = cheat_hub
+﻿namespace = cheat_hub
 
 # ────────────────────────────────────────────────
 # HUB 1 — Economy, Military & Population
