@@ -1,11 +1,62 @@
 ###
-"Deer replacer" folder - there's [gui] folder - copy it to your Victoria 3 installation folder.
+Sovereign Toolkit is a powerful utility and helper mod for Victoria 3, designed to give players full control over their nation's destiny through an interactive hub of events, modifiers, and custom decisions.
 
-Deer icon re
-Also imported very basic mod that changes the error deer in debug mode to a tiny button that activate and deactivates the debug mode
-[https://www.nexusmods.com/victoria3/mods/16?tab=description](https://www.nexusmods.com/victoria3/mods/16?tab=description)
+Whether you want to fine-tune your economy, alter political landscapes, or simply experiment with game mechanics, this toolkit provides a clean, user-friendly, and fully localized interface to manage your realm.
 
-Instructions:
+🎮 How to Use
+
+⚠️ Important: All events, cheat menus, and toolkit options in this mod are triggered exclusively via custom Decisions, which are accessible directly through the Journal tab in-game.
+
+-  Open the Journal (shortcut F5 by default).
+-  Navigate to the Decisions tab.
+- Select the Sovereign Toolkit decision you wish to execute to open the interactive event menus.
+
+✨ Features
+
+- Interactive Cheat Hub: A centralized event-driven menu to trigger various effects.
+- Custom Static Modifiers: Balanced and unbalanced modifiers to alter production, authority, diplomacy, and more.
+- Rich Visuals: Includes custom high-quality event pictures (cheat_1 through cheat_15, cheat_666, etc.) for an immersive interface.
+- Full Localization: Native support for both English and Russian languages.
+- Clean & Safe Integration: Designed as an independent module that doesn't conflict with core game scripts.
+
+📁 Repository Structure
+
+- /Sovereign_Toolkit — Main mod directory containing game files.
+    - /common/decisions — Scripted decisions to trigger the cheat hub.
+    - /common/static_modifiers — Numerical modifiers applied to the nation.
+    - /events — Comprehensive event chains and UI dialogues.
+    - /gfx/event_pictures — Visual assets for the menus.
+    - /localization — Translation files (English & Russian).
+- Sovereign_Toolkit.mod — Metadata file for the Paradox Launcher.
+
+###  Как использовать
+
+⚠️ Важно: Все события, чит-меню и функции инструментария в данном моде вызываются исключительно через специальные **Решения (Decisions)**, которые доступны в меню **Дневника** прямо в игре.
+
+-  Откройте Дневник (клавиша `F5` по умолчанию).
+-  Перейдите на вкладку Решения.
+- Выберите нужное решение Sovereign Toolkit, чтобы открыть интерактивное меню событий.
+
+### ✨ Особенности
+
+- **Интерактивный Чит-Хаб:** Централизованное меню на базе игровых событий для активации различных эффектов.
+- **Уникальные модификаторы:** Сбалансированные и шуточные статические модификаторы, влияющие на производство, авторитет, дипломатию и многое другое.
+- **Качественное оформление:** Включает набор проработанных картинок для событий (`cheat_1` — `cheat_15`, `cheat_666` и др.) для приятного визуального восприятия.
+- **Полная локализация:** Встроенная поддержка английского и русского языков.
+- **Безопасная интеграция:** Мод написан как независимый модуль и не конфликтует со стандартными файлами игры.
+
+### 📁 Структура репозитория
+
+- `/Sovereign_Toolkit` — Основная папка мода с игровыми файлами.
+    - `/common/decisions` — Скрипты решений для вызова чит-меню.
+    - `/common/static_modifiers` — Настройки числовых модификаторов державы.
+    - `/events` — Системы диалогов и цепочки событий мода.
+    - `/gfx/event_pictures` — Графические ресурсы для меню событий.
+    - `/localization` — Файлы локализации (английский и русский языки).
+- `Sovereign_Toolkit.mod` — Файл метаданных для лаунчера Paradox.
+
+## Instructions
+
 Move "Sovereign_Toolkit" folder and "Sovereign_Toolkit.mod" files to your "mod" folder for Victoria 3. Add mod to playset as any other.
 
 ## event cheats.1 - Enhance Economy
